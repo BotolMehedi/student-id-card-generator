@@ -104,7 +104,7 @@ I built this for myself, but I'd love to see what you can add! Here's how to con
 
 <div align="center">
 
-[Star](https://img.shields.io/github/stars/BotolMehedi/student-id-card-generator?style=social) | [Issue](https://github.com/BotolMehedi/student-id-card-generator/issues) | [Discussion](https://github.com/BotolMehedi/student-id-card-generator/discussions)
+[Star](https://github.com/BotolMehedi/student-id-card-generator/stargazers) | [Issue](https://github.com/BotolMehedi/student-id-card-generator/issues) | [Discussion](https://github.com/BotolMehedi/student-id-card-generator/discussions)
 
 </div>
 

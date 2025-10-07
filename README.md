@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![ID Card Generator](https://img.shields.io/badge/Status-Live-brightgreen)](https://mehedi.fun/) [![Version](https://img.shields.io/badge/Version-1.0.1-blue)](https://mehedi.fun/) [![License](https://img.shields.io/badge/License-MIT-yellow)](https://mehedi.fun/) [![Live Demo](https://img.shields.io/badge/Live%20Demo-https://ahct.pages.dev/-blue)](https://ahct.vercel.app/) 
+[![ID Card Generator](https://img.shields.io/badge/Status-Live-brightgreen)](https://mehedi.fun/) [![Version](https://img.shields.io/badge/Version-1.0.1-blue)](https://mehedi.fun/) [![License](https://img.shields.io/badge/License-MIT-yellow)](https://mehedi.fun/) [![Live Demo](https://img.shields.io/badge/Live%20Demo-https://ahct.pages.dev/-blue)](https://ahct.pages.dev/) 
 
 *A professional, feature-rich ID card generator for educational institutions with a modern, responsive design and advanced customization options.*
 
@@ -12,7 +12,7 @@
 
 ## 🌐 Live Demo
 
-**🚀 Try it now**: [https://ahct.vercel.app/](https://ahct.vercel.app/)
+**🚀 Try it now**: [https://ahct.pages.dev/](https://ahct.pages.dev/)
 
 Experience the full functionality of the ID Card Generator with all features available online!
 
@@ -68,7 +68,7 @@ Experience the full functionality of the ID Card Generator with all features ava
 Simply open `index.html` in your browser (some features may be limited due to CORS restrictions).
 
 ⭐ 🌐 Online Access
-**Live Demo**: [https://ahct.vercel.app/](https://ahct.vercel.app/) - No installation required!
+**Live Demo**: [https://ahct.pages.dev/](https://ahct.pages.dev/) - No installation required!
 
 ## 🎯 Usage Guide
 

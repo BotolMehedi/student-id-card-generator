@@ -2,10 +2,7 @@
 
 <div align="center">
 
-![ID Card Generator](https://img.shields.io/badge/Status-Live-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0.1-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Live Demo](https://img.shields.io/badge/Live%20Demo-https://ahct.pages.dev/-blue)
+[![ID Card Generator](https://img.shields.io/badge/Status-Live-brightgreen)](https://mehedi.fun/) [![Version](https://img.shields.io/badge/Version-1.0.1-blue)](https://mehedi.fun/) [![License](https://img.shields.io/badge/License-MIT-yellow)](https://mehedi.fun/) [![Live Demo](https://img.shields.io/badge/Live%20Demo-https://ahct.pages.dev/-blue)](https://mehedi.fun/) 
 
 *A professional, feature-rich ID card generator for educational institutions with a modern, responsive design and advanced customization options.*
 

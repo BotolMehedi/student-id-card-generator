@@ -1,0 +1,132 @@
+<h1 align="center">STUDENT ID CARD GENERATOR</h1>
+
+<div align="center">
+
+![ID Card Generator](https://img.shields.io/badge/Status-Live-brightgreen)
+![Version](https://img.shields.io/badge/Version-1.0.1-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Live Demo](https://img.shields.io/badge/Live%20Demo-https://ahct.pages.dev/-blue)
+
+*A professional, feature-rich ID card generator for educational institutions with a modern, responsive design and advanced customization options.*
+
+</div>
+
+---
+
+## 🌐 Live Demo
+
+**🚀 Try it now**: [https://ahct.vercel.app/](https://ahct.vercel.app/)
+
+Experience the full functionality of the ID Card Generator with all features available online!
+
+---
+
+## ✨ Features
+
+- **Modern UI/UX**
+- **Responsive Design**
+- **5+ Templates**
+- **130+ Country Supported**
+
+### 🏫 **University Integration**
+- **Pre-configured Universities**
+- **Auto-fill Functionality**
+- **Principal Signatures**
+
+### 👤 **Student Information**
+- **Photo Upload**
+- **Auto-generated IDs**
+- **Date of Birth**
+- **Academic Year**
+
+## 🚀 Quick Start
+
+
+⭐ Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/BotolMehedi/student-id-card-generator.git
+   cd student-id-card-generator
+   ```
+
+2. **Set up local server** (recommended)
+   ```bash
+   # Using Python
+   python -m http.server 8000
+   
+   # Using Node.js
+   npx serve .
+   
+   # Using PHP
+   php -S localhost:8000
+   ```
+
+3. **Open in browser**
+   ```
+   http://localhost:8000
+   ```
+
+⭐ Alternative: Direct File Access
+Simply open `index.html` in your browser (some features may be limited due to CORS restrictions).
+
+⭐ 🌐 Online Access
+**Live Demo**: [https://ahct.vercel.app/](https://ahct.vercel.app/) - No installation required!
+
+## 🎯 Usage Guide
+
+- Enter student name
+- Select university from dropdown
+- Upload student photo (optional)
+- Click "Generate ID Card"
+- Select Design
+- Download Card
+
+## 💡 Feature Requests
+
+Have an idea? We'd love to hear it:
+
+1. **Check existing requests**
+2. **Create a new issue** with:
+   - Detailed description
+   - Use case explanation
+   - Potential implementation ideas
+
+
+---
+
+## 🤝 Contributing
+
+I built this for myself, but I'd love to see what you can add! Here's how to contribute:
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request🎯
+
+<div align="center">
+
+[Star](https://img.shields.io/github/stars/BotolMehedi/student-id-card-generator?style=social) | [Issue](https://github.com/BotolMehedi/student-id-card-generator/issues) | [Discussion](https://github.com/BotolMehedi/student-id-card-generator/discussions)
+
+</div>
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**TL;DR:** You can use this freely, modify it, sell it, whatever. Just don't blame me if something ______!😪
+
+---
+
+<div align="center">
+
+### 🌟 Star this repo if you find it helpful!
+
+[Portfolio](https://mehedi.fun) | [Email](mailto:hello@mehedi.fun) | [Github](https://github.com/BotolMehedi)
+
+**Made with ❤️ and lots of 💦 by [BotolMehedi](https://github.com/BotolMehedi)**
+
+</div>

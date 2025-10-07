@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	
+    
+<title>Student ID Card Generator - Professional Student ID Cards Online</title>
+    
+    <meta name="title" content="Student ID Card Generator - Professional Student ID Cards Online">
+    <meta name="description" content="Create professional student ID cards instantly with Student ID Card Generator. Free online tool for educational institutions. Download high-quality ID cards in JPG format.">
+    <meta name="keywords" content="ID card generator, student ID card, educational ID card, school ID card, college ID card, university ID card, professional ID card, online ID card maker, free ID card generator, Kamrul Hossain">
+    <meta name="author" content="AHC">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="7 days">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://ahct.vercel.app/">
+    <meta property="og:title" content="Student ID Card Generator - Professional Student ID Cards">
+    <meta property="og:description" content="Create professional student ID cards instantly. Free online tool for educational institutions. Download high-quality ID cards in JPG format.">
+    <meta property="og:image" content="https://ahct.vercel.app/college_logo.png">
+    <meta property="og:site_name" content="AHCT">
+    <meta property="og:locale" content="en_US">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://ahct.vercel.app/">
+    <meta property="twitter:title" content="Student ID Card Generator - Professional Student ID Cards">
+    <meta property="twitter:description" content="Create professional student ID cards instantly. Free online tool for educational institutions. Download high-quality ID cards in JPG format.">
+    <meta property="twitter:image" content="https://ahct.vercel.app/college_logo.png">
+    <meta property="twitter:creator" content="@ahct">
+    
+    <!-- Additional SEO Meta Tags -->
+    <meta name="theme-color" content="#4F46E5">
+    <meta name="msapplication-TileColor" content="#4F46E5">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="AHCT">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://ahct.vercel.app/">
+    
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/college_logo.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/college_logo.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/college_logo.png">
+    
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%231F2937'/%3E%3Cpath d='M12 4L2 9l10 5 10-5-10-5z' fill='%23F59E0B'/%3E%3Cpath d='M6 11v3c0 2 6 3 6 3s6-1 6-3v-3' fill='%2310B981'/%3E%3Cpath d='M22 9v5' stroke='%23F59E0B' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E">
+    
+    <!-- Preconnect for Performance -->
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    
+    
+    <!-- DNS Prefetch -->
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Student ID Card Generator",
+        "description": "Professional student ID card generator for educational institutions",
+        "url": "https://ahct.vercel.app/",
+        "applicationCategory": "EducationalApplication",
+        "operatingSystem": "Web Browser",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "creator": {
+            "@type": "Person",
+            "name": "AHCT",
+            "url": "https://ahct.vercel.app/"
+        },
+        "featureList": [
+            "Professional ID Card Design",
+            "High-Quality JPG Export",
+            "Multiple University Templates",
+            "Custom Student Information",
+            "Mobile Responsive Design",
+            "Free to Use"
+        ]
+    }
+    </script>
+
+
+
+    <link href="public/alex.css" rel="stylesheet">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #334155 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+            color: #e2e8f0;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            align-items: start;
+        }
+
+        .header {
+            grid-column: 1 / -1;
+            text-align: center;
+            margin-bottom: 20px;
+            animation: slideDown 0.6s ease;
+        }
+
+        .header h1 {
+            font-size: 2.8rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 50%, #ec4899 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 8px;
+            letter-spacing: -1px;
+        }
+
+        .form-container {
+            background: rgba(30, 41, 59, 0.7);
+            backdrop-filter: blur(20px);
+            border-radius: 24px;
+            padding: 35px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+            border: 1px solid rgba(148, 163, 184, 0.1);
+            animation: slideRight 0.6s ease;
+        }
+
+        .section-title {
+            font-size: 1.3rem;
+            margin-bottom: 24px;
+            color: #3b82f6;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .section-title::before {
+            content: '';
+            width: 4px;
+            height: 24px;
+            background: linear-gradient(180deg, #3b82f6, #8b5cf6);
+            border-radius: 2px;
+        }
+
+        .form-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .form-group label {
+            font-size: 0.875rem;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #cbd5e1;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            font-size: 0.75rem;
+        }
+
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
+            padding: 14px 16px;
+            border: 1px solid rgba(148, 163, 184, 0.2);
+            border-radius: 12px;
+            background: rgba(15, 23, 42, 0.5);
+            color: #e2e8f0;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            font-family: inherit;
+            width: 100%;
+        }
+
+        .form-group input::placeholder,
+        .form-group textarea::placeholder {
+            color: rgba(226, 232, 240, 0.4);
+        }
+
+        .form-group input:focus,
+        .form-group select:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: #3b82f6;
+            background: rgba(15, 23, 42, 0.8);
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+        }
+
+        .form-group textarea {
+            resize: vertical;
+            min-height: 90px;
+            font-family: inherit;
+        }
+
+        .photo-upload {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            grid-column: 1 / -1;
+            margin-bottom: 10px;
+        }
+
+        .photo-container {
+            position: relative;
+            width: 180px;
+            height: 180px;
+            border-radius: 20px;
+            overflow: hidden;
+            border: 2px solid rgba(59, 130, 246, 0.3);
+            cursor: pointer;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            background: rgba(15, 23, 42, 0.5);
+        }
+
+        .photo-container:hover {
+            transform: translateY(-4px);
+            border-color: #3b82f6;
+            box-shadow: 0 12px 40px rgba(59, 130, 246, 0.3);
+        }
+
+        .photo-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .photo-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(15, 23, 42, 0.9);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .photo-container:hover .photo-overlay {
+            opacity: 1;
+        }
+
+        .photo-overlay span {
+            color: #3b82f6;
+            font-size: 0.875rem;
+            text-align: center;
+            font-weight: 600;
+        }
+
+        .clear-btn {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            background: #ef4444;
+            border: none;
+            color: #fff;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            cursor: pointer;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.4rem;
+            z-index: 10;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 12px rgba(239, 68, 68, 0.4);
+        }
+
+        .clear-btn:hover {
+            background: #dc2626;
+            transform: scale(1.1) rotate(90deg);
+        }
+
+        .clear-btn.show {
+            display: flex;
+        }
+
+        #fileInput {
+            display: none;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        .generate-btn {
+            width: 100%;
+            padding: 16px;
+            background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+            border: none;
+            border-radius: 14px;
+            color: #fff;
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 1px 1px rgba(59, 130, 246, 0.4);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .generate-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+            transition: left 0.5s ease;
+        }
+
+        .generate-btn:hover::before {
+            left: 100%;
+        }
+
+        .generate-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 32px rgba(59, 130, 246, 0.5);
+        }
+
+        .generate-btn:active {
+            transform: translateY(0);
+        }
+
+        .preview-container {
+            background: rgba(30, 41, 59, 0.7);
+            backdrop-filter: blur(20px);
+            border-radius: 24px;
+            padding: 35px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+            border: 1px solid rgba(148, 163, 184, 0.1);
+            text-align: center;
+            animation: slideLeft 0.6s ease;
+            position: sticky;
+            top: 20px;
+        }
+
+        .preview-title {
+            font-size: 1.5rem;
+            margin-bottom: 25px;
+            color: #3b82f6;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .slider-container {
+            position: relative;
+            overflow: hidden;
+            margin-bottom: 25px;
+        }
+
+        .slider-wrapper {
+            display: flex;
+            transition: transform 0.4s ease-in-out;
+        }
+
+        .slider-wrapper canvas {
+            min-width: 100%;
+            max-width: 100%;
+            border-radius: 16px;
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.6);
+            border: 1px solid rgba(148, 163, 184, 0.1);
+        }
+
+        .slider-nav {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background: rgba(59, 130, 246, 0.9);
+            border: none;
+            color: #fff;
+            width: 45px;
+            height: 45px;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            transition: all 0.3s ease;
+            z-index: 10;
+            box-shadow: 0 4px 12px rgba(59, 130, 246, 0.4);
+        }
+
+        .slider-nav:hover {
+            background: rgba(59, 130, 246, 1);
+            transform: translateY(-50%) scale(1.1);
+        }
+
+        .slider-nav.prev {
+            left: 10px;
+        }
+
+        .slider-nav.next {
+            right: 10px;
+        }
+
+        .slider-nav:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .slider-nav:disabled:hover {
+            transform: translateY(-50%) scale(1);
+            background: rgba(59, 130, 246, 0.9);
+        }
+
+        .slider-dots {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .slider-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: rgba(148, 163, 184, 0.3);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .slider-dot.active {
+            background: #3b82f6;
+            transform: scale(1.2);
+            border-color: rgba(59, 130, 246, 0.3);
+            box-shadow: 0 0 8px rgba(59, 130, 246, 0.5);
+        }
+
+        .slider-dot:hover {
+            background: rgba(59, 130, 246, 0.7);
+        }
+
+        .download-btn {
+            padding: 14px 36px;
+            background: linear-gradient(135deg, #ec4899 0%, #f43f5e 100%);
+            border: none;
+            border-radius: 12px;
+            color: #fff;
+            font-size: 1rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 1px 1px rgba(236, 72, 153, 0.4);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+        }
+
+        .download-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 32px rgba(236, 72, 153, 0.5);
+        }
+
+        .card-counter {
+            color: #94a3b8;
+            font-size: 0.9rem;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+
+        @keyframes slideDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes slideRight {
+            from {
+                opacity: 0;
+                transform: translateX(-40px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @keyframes slideLeft {
+            from {
+                opacity: 0;
+                transform: translateX(40px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @media (max-width: 1200px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+
+            .preview-container {
+                position: static;
+            }
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 20px 15px;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .form-container,
+            .preview-container {
+                padding: 25px;
+            }
+
+            .form-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        select option {
+            background: #1e293b;
+            color: #e2e8f0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Student ID Card Generator</h1>
+        </div>
+
+        <div class="form-container">
+            <h2 class="section-title">Student Details</h2>
+            
+            <div class="form-grid">
+                <div class="photo-upload">
+                    <label style="margin-bottom: 15px;">Student Photo</label>
+                    <div class="photo-container" id="photoContainer">
+                        <img src="public/default_student.png" alt="Student Photo" id="studentPhoto">
+                        <div class="photo-overlay">
+                            <span>Click to Upload</span>
+                            <span>Your Photo</span>
+                        </div>
+                        <button class="clear-btn" id="clearBtn">×</button>
+                    </div>
+                    <input type="file" id="fileInput" accept="image/*">
+                </div>
+
+                <div class="form-group">
+                    <label for="studentName">Student Name</label>
+                    <input type="text" id="studentName" placeholder="Enter student name">
+                </div>
+
+                <div class="form-group">
+                    <label for="dob">Date of Birth</label>
+                    <input type="date" id="dob" value="2001-01-25">
+                </div>
+
+                <div class="form-group">
+                    <label for="studentId">Student ID</label>
+                    <input type="text" id="studentId" readonly>
+                </div>
+
+                <div class="form-group" style="grid-column: 1 / -1;">
+                    <label for="address">Address</label>
+                    <textarea id="address" placeholder="Enter student address"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="academicYear">Academic Year</label>
+                    <input type="text" id="academicYear" readonly>
+                </div>
+            </div>
+
+            <h2 class="section-title">Other Details</h2>
+            
+            <div class="form-grid">
+                <div class="form-group">
+                    <label for="country">Country</label>
+                    <select id="country">
+                        <option value="">Select Country</option>
+                    </select>
+                </div>
+
+                <div class="form-group hidden" id="collegeGroup">
+                    <label for="college">College</label>
+                    <select id="college">
+                        <option value="">Select College</option>
+                    </select>
+                </div>
+
+                <div class="form-group hidden" id="signatureGroup">
+                    <label for="principalSignature">Principal Signature</label>
+                    <input type="text" id="principalSignature" value="Osama Aziz">
+                </div>
+            </div>
+
+            <button class="generate-btn" id="generateBtn">Generate</button>
+        </div>
+
+        <div class="preview-container">
+            <h2 class="preview-title">Preview</h2>
+            <div class="card-counter" id="cardCounter">Card 1 of 6</div>
+            
+            <div class="slider-container">
+                <button class="slider-nav prev" id="prevBtn" style="display:none;">‹</button>
+                <div class="slider-wrapper" id="sliderWrapper">
+                    <canvas class="previewCanvas" id="previewCanvas1" width="1280" height="804"></canvas>
+                    <canvas class="previewCanvas" id="previewCanvas2" width="1280" height="804"></canvas>
+                    <canvas class="previewCanvas" id="previewCanvas3" width="1280" height="804"></canvas>
+                    
+                    <canvas class="previewCanvas" id="previewCanvas4" width="1280" height="804"></canvas>
+                    <canvas class="previewCanvas" id="previewCanvas5" width="1280" height="804"></canvas>
+                    <canvas class="previewCanvas" id="previewCanvas6" width="1280" height="804"></canvas>
+                </div>
+                <button class="slider-nav next" id="nextBtn" style="display:none;">›</button>
+            </div>
+            
+            <div class="slider-dots" id="sliderDots">
+                <span class="slider-dot active" data-index="0"></span>
+                <span class="slider-dot" data-index="1"></span>
+                <span class="slider-dot" data-index="2"></span>
+                <span class="slider-dot active" data-index="3"></span>
+                <span class="slider-dot" data-index="4"></span>
+                <span class="slider-dot" data-index="5"></span>
+            </div>
+            
+            <div>
+                <button class="download-btn" id="downloadBtn">Download</button>
+            </div>
+        </div>
+    </div>
+    
+    
+    <script>
+    	
+
+    
+    
+        let currentSlide = 0;
+        const totalSlides = 6;
+
+        
+
+function updateSlider() {
+            const sliderWrapper = document.getElementById('sliderWrapper');
+            const cardCounter = document.getElementById('cardCounter');
+            const prevBtn = document.getElementById('prevBtn');
+            const nextBtn = document.getElementById('nextBtn');
+            const dots = document.querySelectorAll('.slider-dot');
+
+            sliderWrapper.style.transform = `translateX(-${currentSlide * 100}%)`;
+            cardCounter.textContent = `Card ${currentSlide + 1} of ${totalSlides}`;
+
+
+
+prevBtn.disabled = currentSlide === 0;
+            nextBtn.disabled = currentSlide === totalSlides - 1;
+
+dots.forEach((dot, index) => {
+                dot.classList.toggle('active', index === currentSlide);
+            });
+        }
+
+        document.getElementById('prevBtn').addEventListener('click', () => {
+            if (currentSlide > 0) {
+                currentSlide--;
+                updateSlider();
+            }
+        });
+
+        document.getElementById('nextBtn').addEventListener('click', () => {
+            if (currentSlide < totalSlides - 1) {
+                currentSlide++;
+                updateSlider();
+            }
+        });
+
+        
+        document.querySelectorAll('.slider-dot').forEach(dot => {
+            dot.addEventListener('click', () => {
+                currentSlide = parseInt(dot.getAttribute('data-index'));
+                updateSlider();
+            });
+        });
+
+        
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft' && currentSlide > 0) {
+                currentSlide--;
+                updateSlider();
+            } else if (e.key === 'ArrowRight' && currentSlide < totalSlides - 1) {
+                currentSlide++;
+                updateSlider();
+            }
+        });
+
+        // Touch/Swipe support
+        let touchStartX = 0;
+        let touchEndX = 0;
+
+        document.getElementById('sliderWrapper').addEventListener('touchstart', (e) => {
+            touchStartX = e.changedTouches[0].screenX;
+        });
+
+        document.getElementById('sliderWrapper').addEventListener('touchend', (e) => {
+            touchEndX = e.changedTouches[0].screenX;
+            handleSwipe();
+        });
+
+        function handleSwipe() {
+            if (touchEndX < touchStartX - 50 && currentSlide < totalSlides - 1) {
+                currentSlide++;
+                updateSlider();
+            }
+            if (touchEndX > touchStartX + 50 && currentSlide > 0) {
+                currentSlide--;
+                updateSlider();
+            }
+        }
+
+        // Initialize slider
+        updateSlider();
+
+
+
+
+
+
+        const dobInput = document.getElementById('dob');
+        const date = new Date(dobInput.value);
+        const formattedDate = date.toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+        });
+        
+        let colleges = {};
+        let uploadedImage = null;
+
+        
+        fetch('public/collegeWa.json')
+            .then(response => response.json())
+            .then(data => {
+                colleges = data;
+                populateCountryDropdown();
+            })
+            .catch(error => {
+                console.error('Error loading colleges:', error);
+                alert('Failed to load college data.');
+            });
+
+        function populateCountryDropdown() {
+            const countrySelect = document.getElementById('country');
+            const countries = Object.keys(colleges).sort();
+            
+            countries.forEach(country => {
+                const option = document.createElement('option');
+                option.value = country;
+                option.textContent = country;
+                countrySelect.appendChild(option);
+            });
+        }
+
+        function generateStudentId() {
+            const part1 = Math.floor(Math.random() * 900 + 100);
+            const part2 = Math.floor(Math.random() * 900 + 100);
+            const part3 = Math.floor(Math.random() * 9000 + 1000);
+            return `${part1}-${part2}-${part3}`;
+        }
+
+        function generateAcademicYear() {
+            const currentYear = new Date().getFullYear();
+            return `${currentYear}-${currentYear + 3}`;
+        }
+
+        document.getElementById('studentId').value = generateStudentId();
+        document.getElementById('academicYear').value = generateAcademicYear();
+
+        document.getElementById('photoContainer').addEventListener('click', function(e) {
+            if (e.target !== document.getElementById('clearBtn')) {
+                document.getElementById('fileInput').click();
+            }
+        });
+
+        document.getElementById('fileInput').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(event) {
+                    uploadedImage = event.target.result;
+                    document.getElementById('studentPhoto').src = uploadedImage;
+                    document.getElementById('clearBtn').classList.add('show');
+                };
+                reader.readAsDataURL(file);
+            }
+        });
+
+        document.getElementById('clearBtn').addEventListener('click', function(e) {
+            e.stopPropagation();
+            uploadedImage = null;
+            document.getElementById('studentPhoto').src = 'public/default_student.png';
+            document.getElementById('fileInput').value = '';
+            this.classList.remove('show');
+        });
+
+        document.getElementById('country').addEventListener('change', function() {
+    const country = this.value;
+    const collegeGroup = document.getElementById('collegeGroup');
+    const signatureGroup = document.getElementById('signatureGroup');
+    const collegeSelect = document.getElementById('college');
+    const addressField = document.getElementById('address');
+
+    addressField.value = '';
+
+    if (country && colleges[country]) {
+        collegeGroup.classList.remove('hidden');
+        signatureGroup.classList.remove('hidden');
+
+
+
+        collegeSelect.innerHTML = '<option value="">Select College</option>';
+
+        colleges[country].forEach(collegeObj => {
+            const option = document.createElement('option');
+            option.value = collegeObj.name;
+            option.textContent = collegeObj.name;
+            option.dataset.address = collegeObj.address;
+            collegeSelect.appendChild(option);
+        });
+    } else {
+        collegeGroup.classList.add('hidden');
+        signatureGroup.classList.add('hidden');
+        collegeSelect.innerHTML = '<option value="">Select College</option>';
+    }
+});
+
+  
+  document.getElementById('college').addEventListener('change', function() {
+    const selectedOption = this.options[this.selectedIndex];
+    const addressField = document.getElementById('address');
+
+    if (selectedOption && selectedOption.dataset.address) {
+        addressField.value = selectedOption.dataset.address;
+    } else {
+        addressField.value = '';
+    }
+});
+
+        
+        
+        document.getElementById('generateBtn').addEventListener('click', async function() {
+
+    await document.fonts.load('italic 38px "Alex Brush"');   
+            const templates = ['public/temp1.png', 'public/temp2.png', 'public/temp3.png','public/temp4.png', 'public/temp5.png', 'public/temp6.png'];
+            templates.forEach((template, i) => generateCard(`previewCanvas${i + 1}`, template));
+            
+            
+        });
+
+        document.getElementById('downloadBtn').addEventListener('click', function() {
+            const canvas = document.getElementById(`previewCanvas${currentSlide + 1}`);
+            const link = document.createElement('a');
+            link.download = `student_id_card_template${currentSlide + 1}.jpeg`;
+            link.href = canvas.toDataURL('image/jpeg', 1.0);
+            link.click();
+        });
+
+        function generateCard(canvasId, templateSrc) {
+            const canvas = document.getElementById(canvasId);
+            const ctx = canvas.getContext('2d');
+
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            let templateImage = new Image();
+            templateImage.src = templateSrc;
+
+            templateImage.onload = function() {
+                ctx.drawImage(templateImage, 0, 0, 1280, 804);
+                
+                
+                
+                const collegeLogo = new Image();
+                collegeLogo.src = 'public/college_logo.png';
+
+                collegeLogo.onload = function() {
+                    ctx.drawImage(collegeLogo, 15, 49, 165, 165);
+                    
+                    const studentPhoto = new Image();
+                    studentPhoto.src = uploadedImage || 'public/default_student.png';
+                    
+                    studentPhoto.onload = function() {                	             
+                        const x = 155;
+                        const y = 227;
+                        const size = 348;
+                        const radius = size / 2;
+                        ctx.save();
+                        ctx.beginPath();
+                        ctx.arc(x + radius, y + radius, radius, 0, Math.PI * 2, true);
+                        ctx.closePath();
+                        ctx.clip();
+                        ctx.drawImage(studentPhoto, x, y, size, size);
+                        ctx.restore();
+                        
+                        
+                        const centerIcon = new Image();
+                centerIcon.src = 'public/college_logo.png';
+
+                centerIcon.onload = function() {
+                    ctx.save();
+                    ctx.globalAlpha = 0.2;
+                    const iconWidth = 620;
+                    const iconHeight = 620;
+                    const centerX = (canvas.width - iconWidth) / 2;
+                    const centerY = (canvas.height - iconHeight) / 2;
+                    ctx.drawImage(centerIcon, centerX, centerY, iconWidth, iconHeight);
+                    ctx.restore();
+                };
+
+                        ctx.fillStyle = '#F45245';
+                        ctx.font = 'bold 52px Arial';
+                        ctx.fillText((document.getElementById('studentName').value || 'Mark Zuckerberg').toUpperCase(), 625, 408);
+                        
+                        ctx.fillStyle = '#000000';
+                        ctx.font = 'bold 31px Arial';
+                        ctx.fillText(formattedDate, 808, 512);
+                        ctx.fillText(document.getElementById('studentId').value || '250-456-2000', 810, 462);
+                        
+                        const address = document.getElementById('address').value || '628, Kanaikhali, Natore';
+                        ctx.fillText(address.substring(0, 30), 810, 557);
+                        /*
+                        if (address.length > 30) {
+                            ctx.fillText(address.substring(30, 60), 810, 588);
+                        }
+                        */
+                        
+                        
+                        ctx.fillStyle = '#F45245';
+                        ctx.font = 'bold 45px Arial';
+                        ctx.fillText(document.getElementById('academicYear').value || '2025-2028', 665, 694);
+                        
+                        ctx.fillStyle = '#000000';
+                        ctx.font = 'bold 32px Arial';
+                        
+                        const college = (document.getElementById('college').value || 'Westminster International University in Tashkent').toUpperCase();
+
+const words = college.split(' ');
+let line1 = '';
+let line2 = '';
+let line1Full = false;
+
+for (let word of words) {
+    if (!line1Full) {
+        const testLine = line1 ? line1 + ' ' + word : word;
+        if (testLine.length <= 28) {
+            line1 = testLine;
+        } else {
+            line1Full = true;
+            line2 = word;
+        }
+    } else {
+        line2 += (line2 ? ' ' : '') + word;
+    }
+}
+
+
+if (!line2) {
+    ctx.fillText(line1, 165, 140);
+} else {
+    ctx.fillText(line1, 158, 112);
+
+    const secondLineWords = line2.trim().split(' ');
+    if (secondLineWords.length === 1) {
+        ctx.fillText(line2, 300, 149);
+    } else {
+        ctx.fillText(line2, 200, 149);
+    }
+}
+
+
+
+
+
+                        const country = document.getElementById('country').options[document.getElementById('country').selectedIndex].text;
+
+                        const signature = document.getElementById('principalSignature').value;
+                        if (signature && !document.getElementById('signatureGroup').classList.contains('hidden')) {
+                            ctx.font = 'italic 38px "Alex Brush"';
+                          ctx.fillText(signature || 'Elon Musk', 1047, 693);
+                        }
+                    };
+                };
+            };
+
+            if (templateImage.complete) {
+                templateImage.onload();
+            }
+        }
+
+        window.onload = function() {
+            const templates = ['public/temp1.png', 'public/temp2.png', 'public/temp3.png','public/temp4.png', 'public/temp5.png', 'public/temp6.png'];
+            templates.forEach((template, i) => {
+                generateCard(`previewCanvas${i + 1}`, template);
+            });
+        };
+       
+    </script>
+    
+   </body> </html>

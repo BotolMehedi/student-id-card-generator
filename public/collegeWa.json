@@ -1,0 +1,3016 @@
+{
+  "Afghanistan": [
+    {
+      "name": "Kabul University",
+      "address": "Jamal Mina, 3rd District, Kabul, Afghanistan"
+    },
+    {
+      "name": "American University of Afghanistan",
+      "address": "Darulaman Road, Kabul, Afghanistan"
+    },
+    {
+      "name": "Kardan University",
+      "address": "Taimani Square, Street 4, Kabul, Afghanistan"
+    },
+    {
+      "name": "Nangarhar University",
+      "address": "Jalalabad, Nangarhar Province, Afghanistan"
+    },
+    {
+      "name": "Herat University",
+      "address": "Herat-Kandahar Highway, Herat, Afghanistan"
+    }
+  ],
+  "Albania": [
+    {
+      "name": "University of Tirana",
+      "address": "Sheshi Nënë Tereza, Tirana, Albania"
+    },
+    {
+      "name": "Polytechnic University of Tirana",
+      "address": "Sheshi Nënë Tereza 1, Tirana, Albania"
+    },
+    {
+      "name": "Aleksandër Moisiu University",
+      "address": "Rruga e Currilave, Durrës, Albania"
+    },
+    {
+      "name": "Universiteti i Shkodrës 'Luigj Gurakuqi'",
+      "address": "Rruga Kongresi i Përmetit, Shkodër, Albania"
+    },
+    {
+      "name": "Epoka University",
+      "address": "Rruga Tiranë-Rinas, Km. 12, Tirana, Albania"
+    }
+  ],
+  "Algeria": [
+    {
+      "name": "University of Algiers",
+      "address": "2 Rue Didouche Mourad, Alger Centre, Algiers, Algeria"
+    },
+    {
+      "name": "University of Oran",
+      "address": "Bir El Djir, Oran, Algeria"
+    },
+    {
+      "name": "University of Constantine",
+      "address": "Route d'Aïn El Bey, Constantine, Algeria"
+    },
+    {
+      "name": "University of Tlemcen",
+      "address": "Campus Universitaire, BP 119, Tlemcen, Algeria"
+    },
+    {
+      "name": "University of Annaba",
+      "address": "Route d'El Hadjar, Annaba, Algeria"
+    }
+  ],
+  "Argentina": [
+    {
+      "name": "University of Buenos Aires",
+      "address": "Viamonte 430, C1053ABJ Buenos Aires, Argentina"
+    },
+    {
+      "name": "National University of Córdoba",
+      "address": "Haya de la Torre s/n, Pabellón Argentina, Ciudad Universitaria, X5000HUA Córdoba, Argentina"
+    },
+    {
+      "name": "National University of La Plata",
+      "address": "Avenida 7 Nro. 776, B1900TFN La Plata, Buenos Aires, Argentina"
+    },
+    {
+      "name": "University of Mendoza",
+      "address": "Boulogne Sur Mer, M5500 Mendoza, Argentina"
+    },
+    {
+      "name": "Austral University",
+      "address": "Av. Juan de Garay 125, C1063ABB Buenos Aires, Argentina"
+    }
+  ],
+  "Armenia": [
+    {
+      "name": "Yerevan State University",
+      "address": "1 Alek Manukyan St, Yerevan 0025, Armenia"
+    },
+    {
+      "name": "American University of Armenia",
+      "address": "40 Marshal Baghramyan Ave, Yerevan 0019, Armenia"
+    },
+    {
+      "name": "National Polytechnic University of Armenia",
+      "address": "105 Teryan St, Yerevan 0009, Armenia"
+    },
+    {
+      "name": "Armenian State University of Economics",
+      "address": "128 Nalbandyan St, Yerevan 0025, Armenia"
+    },
+    {
+      "name": "Gavar State University",
+      "address": "1 Hrachya Buniatyan St, Gavar 1201, Armenia"
+    }
+  ],
+  "Australia": [
+    {
+      "name": "University of Melbourne",
+      "address": "Grattan St, Parkville VIC 3010, Australia"
+    },
+    {
+      "name": "University of Sydney",
+      "address": "Camperdown NSW 2006, Australia"
+    },
+    {
+      "name": "Australian National University",
+      "address": "Acton ACT 2601, Australia"
+    },
+    {
+      "name": "Monash University",
+      "address": "Wellington Rd, Clayton VIC 3800, Australia"
+    },
+    {
+      "name": "University of Queensland",
+      "address": "St Lucia QLD 4072, Australia"
+    }
+  ],
+  "Austria": [
+    {
+      "name": "University of Vienna",
+      "address": "Universitätsring 1, 1010 Vienna, Austria"
+    },
+    {
+      "name": "Vienna University of Technology",
+      "address": "Karlsplatz 13, 1040 Vienna, Austria"
+    },
+    {
+      "name": "University of Graz",
+      "address": "Universitätsplatz 3, 8010 Graz, Austria"
+    },
+    {
+      "name": "University of Innsbruck",
+      "address": "Innrain 52, 6020 Innsbruck, Austria"
+    },
+    {
+      "name": "Johannes Kepler University Linz",
+      "address": "Altenberger Str. 69, 4040 Linz, Austria"
+    }
+  ],
+  "Azerbaijan": [
+    {
+      "name": "Baku State University",
+      "address": "23 Zahid Khalilov St, Baku 1148, Azerbaijan"
+    },
+    {
+      "name": "Azerbaijan Technical University",
+      "address": "25 Huseyn Javid Ave, Baku 1073, Azerbaijan"
+    },
+    {
+      "name": "Azerbaijan Medical University",
+      "address": "23 Bakikhanov St, Baku 1022, Azerbaijan"
+    },
+    {
+      "name": "Khazar University",
+      "address": "41 Mehseti St, Baku 1096, Azerbaijan"
+    },
+    {
+      "name": "ADA University",
+      "address": "61 Ahmadbay Agha-Oglu St, Baku 1008, Azerbaijan"
+    }
+  ],
+  "Bahamas": [
+    {
+      "name": "University of the Bahamas",
+      "address": "University Dr, Nassau, The Bahamas"
+    },
+    {
+      "name": "College of the Bahamas",
+      "address": "University Dr, Nassau, The Bahamas"
+    },
+    {
+      "name": "Bahamas Technical & Vocational Institute",
+      "address": "Old Trail Road, Nassau, The Bahamas"
+    },
+    {
+      "name": "Bahamas International University",
+      "address": "Unknown"
+    },
+    {
+      "name": "Caribbean Maritime University Bahamas",
+      "address": "Crystal Palace Training Hotel, Cable Beach, Nassau, The Bahamas"
+    }
+  ],
+  "Bahrain": [
+    {
+      "name": "University of Bahrain",
+      "address": "Rd 45, Sakheer, Building 89, Bahrain"
+    },
+    {
+      "name": "Bahrain Polytechnic",
+      "address": "Isa Town, Building 8, Bahrain"
+    },
+    {
+      "name": "Royal College of Surgeons in Ireland – Bahrain",
+      "address": "Building 2441, Rd 2835, Busaiteen 228, Muharraq, Bahrain"
+    },
+    {
+      "name": "Bahrain Institute of Banking and Finance",
+      "address": "Building 1076, Rd 4026, Manama 340, Bahrain"
+    },
+    {
+      "name": "Arab Open University Bahrain",
+      "address": "Building 890, Rd 3218, A'ali 732, Bahrain"
+    }
+  ],
+  "Bangladesh": [
+    {
+      "name": "University of Dhaka",
+      "address": "Nilkhet Road, Dhaka 1000, Bangladesh"
+    },
+    {
+      "name": "Bangladesh University of Engineering and Technology",
+      "address": "Palashi, Dhaka 1205, Bangladesh"
+    },
+    {
+      "name": "Jahangirnagar University",
+      "address": "Savar, Dhaka 1342, Bangladesh"
+    },
+    {
+      "name": "North South University",
+      "address": "Bashundhara, Dhaka 1229, Bangladesh"
+    },
+    {
+      "name": "BRAC University",
+      "address": "66 Mohakhali, Dhaka 1212, Bangladesh"
+    }
+  ],
+  "Barbados": [
+    {
+      "name": "University of the West Indies Cave Hill",
+      "address": "Cave Hill, St. Michael, Barbados"
+    },
+    {
+      "name": "Barbados Community College",
+      "address": "Howell's Cross Road, St. Michael, BB11115, Barbados"
+    },
+    {
+      "name": "Erdiston Teachers’ Training College",
+      "address": "Pine Hill, St. Michael, Barbados"
+    },
+    {
+      "name": "Samuel Jackman Prescod Institute of Technology",
+      "address": "Wildey, St. Michael, BB11000, Barbados"
+    },
+    {
+      "name": "Codrington College",
+      "address": "Sargeant Street, St. John, Barbados"
+    }
+  ],
+  "Belarus": [
+    {
+      "name": "Belarusian State University",
+      "address": "4 Niezaliežnasci Avenue, Minsk 220030, Belarus"
+    },
+    {
+      "name": "Belarusian National Technical University",
+      "address": "65 Niezaliežnasci Avenue, Minsk 220013, Belarus"
+    },
+    {
+      "name": "Grodno State University",
+      "address": "22 Ozheshko Street, Grodno 230023, Belarus"
+    },
+    {
+      "name": "Brest State University",
+      "address": "21 Cosmonauts Boulevard, Brest 224016, Belarus"
+    },
+    {
+      "name": "Polotsk State University",
+      "address": "29 Blokhin Street, Novopolotsk 211440, Belarus"
+    }
+  ],
+  "Belgium": [
+    {
+      "name": "KU Leuven",
+      "address": "Oude Markt 13, 3000 Leuven, Belgium"
+    },
+    {
+      "name": "Ghent University",
+      "address": "Sint-Pietersnieuwstraat 25, 9000 Ghent, Belgium"
+    },
+    {
+      "name": "Université catholique de Louvain",
+      "address": "Place de l'Université 1, 1348 Louvain-la-Neuve, Belgium"
+    },
+    {
+      "name": "Vrije Universiteit Brussel",
+      "address": "Pleinlaan 2, 1050 Brussels, Belgium"
+    },
+    {
+      "name": "Université libre de Bruxelles",
+      "address": "Avenue Franklin Roosevelt 50, 1050 Brussels, Belgium"
+    }
+  ],
+  "Bhutan": [
+    {
+      "name": "Royal University of Bhutan",
+      "address": "Lower Motithang, Thimphu, Bhutan"
+    },
+    {
+      "name": "Bhutanese Institute of Technology",
+      "address": "Unknown"
+    },
+    {
+      "name": "College of Science & Technology",
+      "address": "Rinchending, Phuentsholing, Bhutan"
+    },
+    {
+      "name": "Sherubtse College",
+      "address": "Kanglung, Trashigang, Bhutan"
+    },
+    {
+      "name": "Kelki College",
+      "address": "Babesa, Thimphu, Bhutan"
+    }
+  ],
+  "Bolivia": [
+    {
+      "name": "University of San Andrés",
+      "address": "Av. Villazón 1995, La Paz, Bolivia"
+    },
+    {
+      "name": "Universidad Mayor de San Simón",
+      "address": "Calle Sucre, Cochabamba, Bolivia"
+    },
+    {
+      "name": "Technical University of Oruro",
+      "address": "Av. 6 de Octubre, Oruro, Bolivia"
+    },
+    {
+      "name": "Universidad Católica Boliviana",
+      "address": "Av. 14 de Septiembre, La Paz, Bolivia"
+    },
+    {
+      "name": "Universidad Autónoma Gabriel René Moreno",
+      "address": "Av. Busch, Santa Cruz de la Sierra, Bolivia"
+    }
+  ],
+  "Brazil": [
+    {
+      "name": "University of São Paulo",
+      "address": "R. da Reitoria, 374 - Butantã, São Paulo - SP, 05508-220, Brazil"
+    },
+    {
+      "name": "University of Campinas",
+      "address": "Cidade Universitária Zeferino Vaz, Campinas - SP, 13083-970, Brazil"
+    },
+    {
+      "name": "Federal University of Rio de Janeiro",
+      "address": "Av. Pedro Calmon, 550 - Cidade Universitária, Rio de Janeiro - RJ, 21941-901, Brazil"
+    },
+    {
+      "name": "Federal University of Minas Gerais",
+      "address": "Av. Pres. Antônio Carlos, 6627 - Pampulha, Belo Horizonte - MG, 31270-901, Brazil"
+    },
+    {
+      "name": "Federal University of Rio Grande do Sul",
+      "address": "Av. Paulo Gama, 110 - Farroupilha, Porto Alegre - RS, 90040-060, Brazil"
+    }
+  ],
+  "Bulgaria": [
+    {
+      "name": "Sofia University",
+      "address": "Tsar Osvoboditel Blvd 15, Sofia 1504, Bulgaria"
+    },
+    {
+      "name": "Technical University of Sofia",
+      "address": "St. Kliment Ohridski Blvd 8, Sofia 1756, Bulgaria"
+    },
+    {
+      "name": "Plovdiv University",
+      "address": "Tsar Asen St 24, Plovdiv 4000, Bulgaria"
+    },
+    {
+      "name": "Varna University of Economics",
+      "address": "Knyaz Boris I Blvd 77, Varna 9002, Bulgaria"
+    },
+    {
+      "name": "New Bulgarian University",
+      "address": "Montevideo St 21, Sofia 1618, Bulgaria"
+    }
+  ],
+  "Cambodia": [
+    {
+      "name": "Royal University of Phnom Penh",
+      "address": "Russian Federation Blvd, Phnom Penh, Cambodia"
+    },
+    {
+      "name": "Institute of Technology of Cambodia",
+      "address": "Pochentong Blvd, Phnom Penh, Cambodia"
+    },
+    {
+      "name": "Royal University of Law and Economics",
+      "address": "Monivong Blvd, Phnom Penh, Cambodia"
+    },
+    {
+      "name": "Paññasastra University of Cambodia",
+      "address": "Sothearos Blvd, Phnom Penh, Cambodia"
+    },
+    {
+      "name": "Cambodia Mekong University",
+      "address": "No. 21-24, Street 271, Phnom Penh, Cambodia"
+    }
+  ],
+  "Cameroon": [
+    {
+      "name": "University of Yaoundé",
+      "address": "Ngoa-Ekelle, Yaoundé, Cameroon"
+    },
+    {
+      "name": "University of Douala",
+      "address": "BP 2701, Douala, Cameroon"
+    },
+    {
+      "name": "University of Buea",
+      "address": "Molyko, Buea, South-West Region, Cameroon"
+    },
+    {
+      "name": "University of Bamenda",
+      "address": "Bambili, Bamenda, North-West Region, Cameroon"
+    },
+    {
+      "name": "University of Dschang",
+      "address": "BP 96, Dschang, West Region, Cameroon"
+    }
+  ],
+  "Canada": [
+    {
+      "name": "University of Toronto",
+      "address": "27 King's College Cir, Toronto, ON M5S, Canada"
+    },
+    {
+      "name": "McGill University",
+      "address": "845 Sherbrooke St W, Montreal, Quebec H3A 0G4, Canada"
+    },
+    {
+      "name": "University of British Columbia",
+      "address": "2329 West Mall, Vancouver, BC V6T 1Z4, Canada"
+    },
+    {
+      "name": "University of Alberta",
+      "address": "116 St & 85 Ave, Edmonton, AB T6G 2R3, Canada"
+    },
+    {
+      "name": "University of Waterloo",
+      "address": "200 University Ave W, Waterloo, ON N2L 3G1, Canada"
+    }
+  ],
+  "Central African Republic": [
+    {
+      "name": "University of Bangui",
+      "address": "Avenue des Martyrs, Bangui, Central African Republic"
+    },
+    {
+      "name": "ESSTIN CAR",
+      "address": "Bangui, Central African Republic"
+    },
+    {
+      "name": "Université de l’Oubangui Champs-Élysées",
+      "address": "Bangui, Central African Republic"
+    },
+    {
+      "name": "Institut Universitaire de Bangui",
+      "address": "Bangui, Central African Republic"
+    },
+    {
+      "name": "Faculty of Sciences Bangui",
+      "address": "Avenue des Martyrs, Bangui, Central African Republic"
+    }
+  ],
+  "Chile": [
+    {
+      "name": "University of Chile",
+      "address": "Av. Libertador Bernardo O'Higgins 1058, Santiago, Región Metropolitana, Chile"
+    },
+    {
+      "name": "Pontifical Catholic University of Chile",
+      "address": "Av. Libertador Bernardo O'Higgins 340, Santiago, Región Metropolitana, Chile"
+    },
+    {
+      "name": "University of Santiago de Chile",
+      "address": "Av. Libertador Bernardo O'Higgins 3363, Estación Central, Santiago, Chile"
+    },
+    {
+      "name": "Adolfo Ibáñez University",
+      "address": "Av. Diagonal las Torres 2640, Peñalolén, Santiago, Chile"
+    },
+    {
+      "name": "Federico Santa María Technical University",
+      "address": "Av. España 1680, Valparaíso, Chile"
+    }
+  ],
+  "China": [
+    {
+      "name": "Tsinghua University",
+      "address": "30 Shuangqing Rd, Haidian District, Beijing, China"
+    },
+    {
+      "name": "Peking University",
+      "address": "5 Yiheyuan Rd, Haidian District, Beijing, China"
+    },
+    {
+      "name": "Fudan University",
+      "address": "220 Handan Rd, Yangpu District, Shanghai, China"
+    },
+    {
+      "name": "Zhejiang University",
+      "address": "866 Yuhangtang Rd, Xihu District, Hangzhou, Zhejiang, China"
+    },
+    {
+      "name": "Shanghai Jiao Tong University",
+      "address": "800 Dongchuan Rd, Minhang District, Shanghai, China"
+    }
+  ],
+  "Colombia": [
+    {
+      "name": "University of the Andes",
+      "address": "Cra. 1 #18a-12, Bogotá, Colombia"
+    },
+    {
+      "name": "National University of Colombia",
+      "address": "Cra 45 #26-85, Bogotá, Colombia"
+    },
+    {
+      "name": "Pontificia Universidad Javeriana",
+      "address": "Cra. 7 #40-62, Bogotá, Colombia"
+    },
+    {
+      "name": "EAFIT University",
+      "address": "Cra. 49 #7 Sur-50, Medellín, Antioquia, Colombia"
+    },
+    {
+      "name": "University of Antioquia",
+      "address": "Cl. 67 #53-108, Medellín, Antioquia, Colombia"
+    }
+  ],
+  "Comoros": [
+    {
+      "name": "University of Comoros",
+      "address": "Mutsamudu, Anjouan, Comoros"
+    },
+    {
+      "name": "Université de Fomboni",
+      "address": "Fomboni, Mohéli, Comoros"
+    },
+    {
+      "name": "Higher Institute of Agriculture Comoros",
+      "address": "Unknown"
+    },
+    {
+      "name": "Comoros University of Technology",
+      "address": "Unknown"
+    },
+    {
+      "name": "Comoros School of Nursing",
+      "address": "Moroni, Grande Comore, Comoros"
+    }
+  ],
+  "Costa Rica": [
+    {
+      "name": "University of Costa Rica",
+      "address": "Ciudad Universitaria Rodrigo Facio, San Pedro, Montes de Oca, San José, Costa Rica"
+    },
+    {
+      "name": "Instituto Tecnológico de Costa Rica",
+      "address": "Avenida Central, Cartago, Costa Rica"
+    },
+    {
+      "name": "Universidad Nacional",
+      "address": "Av. 1, Heredia, Costa Rica"
+    },
+    {
+      "name": "Costa Rica Institute of Technology",
+      "address": "Avenida Central, Cartago, Costa Rica"
+    },
+    {
+      "name": "UNED Costa Rica",
+      "address": "Carretera a Sabanilla, de la Rotonda de la Bandera 400 mts Este, Mercedes de Montes de Oca, San José, Costa Rica"
+    }
+  ],
+  "Côte d’Ivoire": [
+    {
+      "name": "Université Félix Houphouët-Boigny",
+      "address": "Boulevard de l'Université, Cocody, Abidjan, Côte d'Ivoire"
+    },
+    {
+      "name": "Université Nangui Abrogoua",
+      "address": "Abobo-Adjamé, Abidjan, Côte d'Ivoire"
+    },
+    {
+      "name": "Université de Cocody",
+      "address": "Boulevard de l'Université, Cocody, Abidjan, Côte d'Ivoire"
+    },
+    {
+      "name": "Université de Bouaké",
+      "address": "Campus 1, Bouaké, Côte d'Ivoire"
+    },
+    {
+      "name": "Université d’Abobo-Adjamé",
+      "address": "Abobo-Adjamé, Abidjan, Côte d'Ivoire"
+    }
+  ],
+  "Croatia": [
+    {
+      "name": "University of Zagreb",
+      "address": "Trg Republike Hrvatske 14, 10000, Zagreb, Croatia"
+    },
+    {
+      "name": "University of Split",
+      "address": "Ruđera Boškovića 31, 21000, Split, Croatia"
+    },
+    {
+      "name": "University of Rijeka",
+      "address": "Trg braće Mažuranića 10, 51000, Rijeka, Croatia"
+    },
+    {
+      "name": "University of Osijek",
+      "address": "Trg Svetog Trojstva 3, 31000, Osijek, Croatia"
+    },
+    {
+      "name": "University of Dubrovnik",
+      "address": "Branitelja Dubrovnika 29, 20000, Dubrovnik, Croatia"
+    }
+  ],
+  "Denmark": [
+    {
+      "name": "University of Copenhagen",
+      "address": "Nørregade 10, 1165 Copenhagen, Denmark"
+    },
+    {
+      "name": "Aarhus University",
+      "address": "Nordre Ringgade 1, 8000 Aarhus, Denmark"
+    },
+    {
+      "name": "Technical University of Denmark",
+      "address": "Anker Engelunds Vej 1, 2800 Kongens Lyngby, Denmark"
+    },
+    {
+      "name": "Copenhagen Business School",
+      "address": "Solbjerg Plads 3, 2000 Frederiksberg, Denmark"
+    },
+    {
+      "name": "Aalborg University",
+      "address": "Fredrik Bajers Vej 5, 9220 Aalborg, Denmark"
+    }
+  ],
+  "Dominica": [
+    {
+      "name": "Dominica State College",
+      "address": "Stock Farm, Roseau, Dominica"
+    },
+    {
+      "name": "Ross University",
+      "address": "Picard, Portsmouth, Dominica"
+    },
+    {
+      "name": "All Saints University",
+      "address": "48 Hillsborough Street, Roseau, Dominica"
+    },
+    {
+      "name": "Windsor University School of Medicine",
+      "address": "Brighton's Estate, Cayon, St. Kitts & Nevis (Relocated)"
+    },
+    {
+      "name": "American International University of Management",
+      "address": "Unknown"
+    }
+  ],
+  "Dominican Republic": [
+    {
+      "name": "Universidad Autónoma de Santo Domingo",
+      "address": "Av. Alma Mater, Santo Domingo, Dominican Republic"
+    },
+    {
+      "name": "Pontificia Universidad Católica Madre y Maestra",
+      "address": "Autopista Duarte Km 1 1/2, Santiago De Los Caballeros, Dominican Republic"
+    },
+    {
+      "name": "Universidad Iberoamericana",
+      "address": "Av. Francia 129, Santo Domingo, Dominican Republic"
+    },
+    {
+      "name": "Universidad Central del Este",
+      "address": "Av. Francisco Micheli, San Pedro de Macorís, Dominican Republic"
+    },
+    {
+      "name": "Universidad del Caribe",
+      "address": "Autopista 30 de Mayo, Km 7 1/2, Santo Domingo, Dominican Republic"
+    }
+  ],
+  "Ecuador": [
+    {
+      "name": "University of San Francisco de Quito",
+      "address": "Diego de Robles y Vía Interoceánica, Cumbayá, Quito, Ecuador"
+    },
+    {
+      "name": "Pontifical Catholic University of Ecuador",
+      "address": "Av. 12 de Octubre 1076, Quito, Ecuador"
+    },
+    {
+      "name": "Central University of Ecuador",
+      "address": "Av. América, Quito, Ecuador"
+    },
+    {
+      "name": "ESPOL",
+      "address": "Campus Gustavo Galindo, Km 30.5 Vía Perimetral, Guayaquil, Ecuador"
+    },
+    {
+      "name": "Technical University of Ambato",
+      "address": "Av. de los Chasquis y Río Payamino, Ambato, Ecuador"
+    }
+  ],
+  "Egypt": [
+    {
+      "name": "Cairo University",
+      "address": "Giza District, Giza Governorate, Egypt"
+    },
+    {
+      "name": "Alexandria University",
+      "address": "22 El-Gaish Rd, El-Shatby, Alexandria, Egypt"
+    },
+    {
+      "name": "Ain Shams University",
+      "address": "El-Khalifa El-Maamoun St, Abbassia, Cairo, Egypt"
+    },
+    {
+      "name": "American University in Cairo",
+      "address": "AUC Avenue, New Cairo, Egypt"
+    },
+    {
+      "name": "Mansoura University",
+      "address": "Elgomhoria Street, Mansoura, Dakahlia Governorate, Egypt"
+    }
+  ],
+  "El Salvador": [
+    {
+      "name": "University of El Salvador",
+      "address": "Final Av. Mártires y Héroes del 30 de julio, San Salvador, El Salvador"
+    },
+    {
+      "name": "Universidad Centroamericana 'José Simeón Cañas'",
+      "address": "Bulevar Los Próceres, Antiguo Cuscatlán, La Libertad, El Salvador"
+    },
+    {
+      "name": "Universidad Tecnológica de El Salvador",
+      "address": "17 Avenida Nte, San Salvador, El Salvador"
+    },
+    {
+      "name": "Universidad de El Salvador ITCA-FEPADE",
+      "address": "Km. 11 1/2 Carretera a Santa Tecla, La Libertad, El Salvador"
+    },
+    {
+      "name": "Universidad Francisco Gavidia",
+      "address": "Calle El Progreso 2748, San Salvador, El Salvador"
+    }
+  ],
+  "Eritrea": [
+    {
+      "name": "University of Asmara",
+      "address": "Asmara, Eritrea"
+    },
+    {
+      "name": "Asmara College of Health Sciences",
+      "address": "Asmara, Eritrea"
+    },
+    {
+      "name": "Eritrea Institute of Technology",
+      "address": "Mai Nefhi, Near Asmara, Eritrea"
+    },
+    {
+      "name": "Omondi University Eritrea",
+      "address": "Unknown"
+    },
+    {
+      "name": "Cuba Eritrea Kevad College",
+      "address": "Unknown"
+    }
+  ],
+  "Estonia": [
+    {
+      "name": "University of Tartu",
+      "address": "Ülikooli 18, 50090 Tartu, Estonia"
+    },
+    {
+      "name": "Tallinn University of Technology",
+      "address": "Ehitajate tee 5, 19086 Tallinn, Estonia"
+    },
+    {
+      "name": "Estonian University of Life Sciences",
+      "address": "Kreutzwaldi 1, 51006 Tartu, Estonia"
+    },
+    {
+      "name": "Tallinn University",
+      "address": "Narva mnt 25, 10120 Tallinn, Estonia"
+    },
+    {
+      "name": "Estonian Academy of Arts",
+      "address": "Põhja puiestee 7, 10412 Tallinn, Estonia"
+    }
+  ],
+  "Ethiopia": [
+    {
+      "name": "Addis Ababa University",
+      "address": "King George VI St, Addis Ababa, Ethiopia"
+    },
+    {
+      "name": "Jimma University",
+      "address": "Jimma, Oromia Region, Ethiopia"
+    },
+    {
+      "name": "Mekelle University",
+      "address": "Mekelle, Tigray Region, Ethiopia"
+    },
+    {
+      "name": "Hawassa University",
+      "address": "Hawassa, SNNPR, Ethiopia"
+    },
+    {
+      "name": "Bahir Dar University",
+      "address": "Bahir Dar, Amhara Region, Ethiopia"
+    }
+  ],
+  "Finland": [
+    {
+      "name": "University of Helsinki",
+      "address": "Yliopistonkatu 4, 00100 Helsinki, Finland"
+    },
+    {
+      "name": "Aalto University",
+      "address": "Otakaari 1, 02150 Espoo, Finland"
+    },
+    {
+      "name": "Tampere University",
+      "address": "Kalevantie 4, 33100 Tampere, Finland"
+    },
+    {
+      "name": "University of Turku",
+      "address": "Yliopistonmäki, 20500 Turku, Finland"
+    },
+    {
+      "name": "University of Oulu",
+      "address": "Pentti Kaiteran katu 1, 90570 Oulu, Finland"
+    }
+  ],
+  "France": [
+    {
+      "name": "Sorbonne University",
+      "address": "21 Rue de l'École de Médecine, 75006 Paris, France"
+    },
+    {
+      "name": "École Normale Supérieure",
+      "address": "45 Rue d'Ulm, 75005 Paris, France"
+    },
+    {
+      "name": "University of Paris-Saclay",
+      "address": "Bâtiment Breguet, 3 Rue Joliot Curie, 91190 Gif-sur-Yvette, France"
+    },
+    {
+      "name": "École Polytechnique",
+      "address": "Route de Saclay, 91120 Palaiseau, France"
+    },
+    {
+      "name": "Sciences Po",
+      "address": "27 Rue Saint-Guillaume, 75007 Paris, France"
+    }
+  ],
+  "Gambia": [
+    {
+      "name": "University of The Gambia",
+      "address": "MDI Road, Kanifing, The Gambia"
+    },
+    {
+      "name": "Gambia College",
+      "address": "Brikama, West Coast Region, The Gambia"
+    },
+    {
+      "name": "American International University West Africa",
+      "address": "89 Kairaba Avenue, Fajara, The Gambia"
+    },
+    {
+      "name": "Gambia Technical Training Institute",
+      "address": "Kanifing East, Serrekunda, The Gambia"
+    },
+    {
+      "name": "International Open University Gambia",
+      "address": "Kanifing, The Gambia"
+    }
+  ],
+  "Georgia": [
+    {
+      "name": "Tbilisi State University",
+      "address": "1 Chavchavadze Ave, Tbilisi 0179, Georgia"
+    },
+    {
+      "name": "Ivane Javakhishvili Tbilisi State University",
+      "address": "1 Chavchavadze Ave, Tbilisi 0179, Georgia"
+    },
+    {
+      "name": "Georgian Technical University",
+      "address": "77 Kostava St, Tbilisi 0175, Georgia"
+    },
+    {
+      "name": "Ilia State University",
+      "address": "32 Chavchavadze Ave, Tbilisi, Georgia"
+    },
+    {
+      "name": "Batumi State University",
+      "address": "35 Ninoshvili St, Batumi, Georgia"
+    }
+  ],
+  "Germany": [
+    {
+      "name": "Technical University of Munich",
+      "address": "Arcisstraße 21, 80333 Munich, Germany"
+    },
+    {
+      "name": "University of Heidelberg",
+      "address": "Grabengasse 1, 69117 Heidelberg, Germany"
+    },
+    {
+      "name": "Humboldt University of Berlin",
+      "address": "Unter den Linden 6, 10117 Berlin, Germany"
+    },
+    {
+      "name": "University of Freiburg",
+      "address": "Fahnenbergplatz, 79085 Freiburg im Breisgau, Germany"
+    },
+    {
+      "name": "RWTH Aachen University",
+      "address": "Templergraben 55, 52062 Aachen, Germany"
+    }
+  ],
+  "Ghana": [
+    {
+      "name": "University of Ghana",
+      "address": "Legon, Accra, Ghana"
+    },
+    {
+      "name": "Kwame Nkrumah University of Science and Technology",
+      "address": "Kumasi, Ashanti Region, Ghana"
+    },
+    {
+      "name": "University of Cape Coast",
+      "address": "Cape Coast, Central Region, Ghana"
+    },
+    {
+      "name": "Ashesi University",
+      "address": "1 University Avenue, Berekuso, Eastern Region, Ghana"
+    },
+    {
+      "name": "University of Education Winneba",
+      "address": "Winneba, Central Region, Ghana"
+    }
+  ],
+  "Greece": [
+    {
+      "name": "National and Kapodistrian University of Athens",
+      "address": "Panepistimiou 30, Athina 106 79, Greece"
+    },
+    {
+      "name": "Aristotle University of Thessaloniki",
+      "address": "University Campus, Thessaloniki 541 24, Greece"
+    },
+    {
+      "name": "University of Patras",
+      "address": "University Campus, Rio Patras, 26504, Greece"
+    },
+    {
+      "name": "Technical University of Crete",
+      "address": "University Campus, Kounoupidiana, 73100 Chania, Crete, Greece"
+    },
+    {
+      "name": "University of Crete",
+      "address": "University Campus, Gallos, 74100 Rethymno, Crete, Greece"
+    }
+  ],
+  "Grenada": [
+    {
+      "name": "St. George’s University",
+      "address": "University Centre, Grenada, West Indies"
+    },
+    {
+      "name": "T.A. Marryshow Community College",
+      "address": "Tanteen, St. George, Grenada"
+    },
+    {
+      "name": "New Life Academy College",
+      "address": "Unknown"
+    },
+    {
+      "name": "Kirani James Institute",
+      "address": "Gouyave, St. John, Grenada"
+    },
+    {
+      "name": "Grenada Seventh-Day Adventist College",
+      "address": "Mount Rose, St. Patrick, Grenada"
+    }
+  ],
+  "Guatemala": [
+    {
+      "name": "University of San Carlos of Guatemala",
+      "address": "Ciudad Universitaria, Zona 12, Ciudad de Guatemala, Guatemala"
+    },
+    {
+      "name": "Del Valle University",
+      "address": "18 Avenida 11-95, Zona 15, Vista Hermosa III, Ciudad de Guatemala, Guatemala"
+    },
+    {
+      "name": "Rafael Landívar University",
+      "address": "Vista Hermosa III, Campus Central, Zona 16, Ciudad de Guatemala, Guatemala"
+    },
+    {
+      "name": "Mariano Gálvez University",
+      "address": "3a Avenida 9-00, Cdad. de Guatemala 01007, Guatemala"
+    },
+    {
+      "name": "Mesoamericana University",
+      "address": "3a Avenida 13-38, Zona 1, Quetzaltenango, Guatemala"
+    }
+  ],
+  "Guinea": [
+    {
+      "name": "Université Gamal Abdel Nasser de Conakry",
+      "address": "Donka, Conakry, Guinea"
+    },
+    {
+      "name": "Université Koffi Annan",
+      "address": "Nongo, Conakry, Guinea"
+    },
+    {
+      "name": "Université Peleforo Gon Coulibaly",
+      "address": "Korhogo, Côte d'Ivoire (Note: This university is in Côte d'Ivoire, not Guinea)"
+    },
+    {
+      "name": "Université de Nzérékoré",
+      "address": "Nzérékoré, Guinea"
+    },
+    {
+      "name": "Institut Polytechnique de Conakry",
+      "address": "Donka, Conakry, Guinea"
+    }
+  ],
+  "Guyana": [
+    {
+      "name": "University of Guyana",
+      "address": "Turkeyen Campus, Georgetown, Guyana"
+    },
+    {
+      "name": "Guyana School of Agriculture",
+      "address": "Mon Repos, East Coast Demerara, Guyana"
+    },
+    {
+      "name": "Georgetown American University",
+      "address": "157 Waterloo Street, North Cummingsburg, Georgetown, Guyana"
+    },
+    {
+      "name": "Caribbean Maritime University Guyana",
+      "address": "Unknown"
+    },
+    {
+      "name": "Guyana Technical Institute",
+      "address": "Woolford Avenue, Georgetown, Guyana"
+    }
+  ],
+  "Haiti": [
+    {
+      "name": "Quisqueya University",
+      "address": "25, Rue Paved, Port-au-Prince, Haiti"
+    },
+    {
+      "name": "State University of Haiti",
+      "address": "25 Rue Oswald Durand, Port-au-Prince, Haiti"
+    },
+    {
+      "name": "Université d’État d’Haïti",
+      "address": "25 Rue Oswald Durand, Port-au-Prince, Haiti"
+    },
+    {
+      "name": "Université Quisqueya",
+      "address": "25, Rue Paved, Port-au-Prince, Haiti"
+    },
+    {
+      "name": "Global University Haiti",
+      "address": "Unknown"
+    }
+  ],
+  "Honduras": [
+    {
+      "name": "National Autonomous University of Honduras",
+      "address": "Bulevar Suyapa, Tegucigalpa, Honduras"
+    },
+    {
+      "name": "University of San Pedro Sula",
+      "address": "Avenida Circunvalación, San Pedro Sula, Honduras"
+    },
+    {
+      "name": "Francisco Morazán National Pedagogical University",
+      "address": "Bulevar Centroamérica, Tegucigalpa, Honduras"
+    },
+    {
+      "name": "University of Tegucigalpa",
+      "address": "Colonia Lomas del Guijarro, Tegucigalpa, Honduras"
+    },
+    {
+      "name": "Valle de Ángeles University",
+      "address": "Valle de Ángeles, Francisco Morazán, Honduras"
+    }
+  ],
+  "Hungary": [
+    {
+      "name": "Eötvös Loránd University",
+      "address": "Egyetem tér 1-3, Budapest 1053, Hungary"
+    },
+    {
+      "name": "Budapest University of Technology and Economics",
+      "address": "Műegyetem rkp. 3, Budapest 1111, Hungary"
+    },
+    {
+      "name": "University of Debrecen",
+      "address": "Egyetem tér 1, Debrecen 4032, Hungary"
+    },
+    {
+      "name": "University of Szeged",
+      "address": "Dugonics tér 13, Szeged 6720, Hungary"
+    },
+    {
+      "name": "Corvinus University of Budapest",
+      "address": "Fővám tér 8, Budapest 1093, Hungary"
+    }
+  ],
+  "Iceland": [
+    {
+      "name": "University of Iceland",
+      "address": "Sæmundargata 2, 101 Reykjavík, Iceland"
+    },
+    {
+      "name": "Reykjavik University",
+      "address": "Menntavegur 1, 101 Reykjavík, Iceland"
+    },
+    {
+      "name": "Iceland University of the Arts",
+      "address": "Þverholt 11, 105 Reykjavík, Iceland"
+    },
+    {
+      "name": "Bifröst University",
+      "address": "Bifröst, 311 Borgarnes, Iceland"
+    },
+    {
+      "name": "Agricultural University of Iceland",
+      "address": "Hvanneyri, 311 Borgarnes, Iceland"
+    }
+  ],
+  "India": [
+    {
+      "name": "Indian Institute of Technology Bombay",
+      "address": "Powai, Mumbai, Maharashtra 400076, India"
+    },
+    {
+      "name": "Indian Institute of Technology Delhi",
+      "address": "Hauz Khas, New Delhi, Delhi 110016, India"
+    },
+    {
+      "name": "Indian Institute of Science Bangalore",
+      "address": "CV Raman Rd, Bengaluru, Karnataka 560012, India"
+    },
+    {
+      "name": "University of Delhi",
+      "address": "Benito Juarez Marg, South Campus, South Moti Bagh, New Delhi, Delhi 110021, India"
+    },
+    {
+      "name": "Jawaharlal Nehru University",
+      "address": "New Mehrauli Road, New Delhi, Delhi 110067, India"
+    }
+  ],
+  "Indonesia": [
+    {
+      "name": "University of Indonesia",
+      "address": "Kampus UI Depok, Depok, West Java 16424, Indonesia"
+    },
+    {
+      "name": "Gadjah Mada University",
+      "address": "Bulaksumur, Caturtunggal, Sleman, Special Region of Yogyakarta 55281, Indonesia"
+    },
+    {
+      "name": "Bandung Institute of Technology",
+      "address": "Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132, Indonesia"
+    },
+    {
+      "name": "Airlangga University",
+      "address": "Jl. Mayjen Prof. Dr. Moestopo No.47, Pacar Kembang, Surabaya, East Java 60132, Indonesia"
+    },
+    {
+      "name": "Brawijaya University",
+      "address": "Jl. Veteran, Ketawanggede, Malang, East Java 65145, Indonesia"
+    }
+  ],
+  "Iran": [
+    {
+      "name": "University of Tehran",
+      "address": "Enghelab Square, Tehran, Iran"
+    },
+    {
+      "name": "Sharif University of Technology",
+      "address": "Azadi Street, Tehran, Iran"
+    },
+    {
+      "name": "Amirkabir University",
+      "address": "424 Hafez Ave, Tehran, Iran"
+    },
+    {
+      "name": "Isfahan University of Technology",
+      "address": "Daneshgah e Sanati Highway, Isfahan, Iran"
+    },
+    {
+      "name": "Tehran University of Medical Sciences",
+      "address": "Qods St, Keshavarz Blvd, Tehran, Iran"
+    }
+  ],
+  "Iraq": [
+    {
+      "name": "University of Baghdad",
+      "address": "Al-Jadriya Bridge, Baghdad, Iraq"
+    },
+    {
+      "name": "University of Basrah",
+      "address": "Garmat Ali, Basrah, Iraq"
+    },
+    {
+      "name": "University of Mosul",
+      "address": "Al Majmoaa, Mosul, Nineveh Governorate, Iraq"
+    },
+    {
+      "name": "University of Kufa",
+      "address": "Kufa, Najaf Governorate, Iraq"
+    },
+    {
+      "name": "Al Mustansiriya University",
+      "address": "Palestine Street, Baghdad, Iraq"
+    }
+  ],
+  "Ireland": [
+    {
+      "name": "Trinity College Dublin",
+      "address": "College Green, Dublin 2, Ireland"
+    },
+    {
+      "name": "University College Dublin",
+      "address": "Belfield, Dublin 4, Ireland"
+    },
+    {
+      "name": "University of Galway",
+      "address": "University Road, Galway, Ireland"
+    },
+    {
+      "name": "University of Limerick",
+      "address": "Castletroy, Limerick, Ireland"
+    },
+    {
+      "name": "Dublin City University",
+      "address": "Glasnevin, Dublin 9, Ireland"
+    }
+  ],
+  "Italy": [
+    {
+      "name": "University of Bologna",
+      "address": "Via Zamboni, 33, 40126 Bologna BO, Italy"
+    },
+    {
+      "name": "Sapienza University of Rome",
+      "address": "Piazzale Aldo Moro, 5, 00185 Roma RM, Italy"
+    },
+    {
+      "name": "University of Milan",
+      "address": "Via Festa del Perdono, 7, 20122 Milano MI, Italy"
+    },
+    {
+      "name": "University of Padua",
+      "address": "Via 8 Febbraio, 2, 35122 Padova PD, Italy"
+    },
+    {
+      "name": "University of Florence",
+      "address": "Piazza di San Marco, 4, 50121 Firenze FI, Italy"
+    }
+  ],
+  "Jamaica": [
+    {
+      "name": "University of the West Indies Mona",
+      "address": "Mona, Kingston 7, Jamaica"
+    },
+    {
+      "name": "University of Technology Jamaica",
+      "address": "237 Old Hope Road, Kingston 6, Jamaica"
+    },
+    {
+      "name": "Northern Caribbean University",
+      "address": "Manchester Road, Mandeville, Jamaica"
+    },
+    {
+      "name": "University of the Commonwealth Caribbean",
+      "address": "17 Worthington Avenue, Kingston 5, Jamaica"
+    },
+    {
+      "name": "Mona School of Business",
+      "address": "Mona, Kingston 7, Jamaica"
+    }
+  ],
+  "Japan": [
+    {
+      "name": "University of Tokyo",
+      "address": "7 Chome-3-1 Hongo, Bunkyo City, Tokyo 113-8654, Japan"
+    },
+    {
+      "name": "Kyoto University",
+      "address": "Yoshidahonmachi, Sakyo Ward, Kyoto, 606-8501, Japan"
+    },
+    {
+      "name": "Osaka University",
+      "address": "1-1 Yamadaoka, Suita, Osaka 565-0871, Japan"
+    },
+    {
+      "name": "Tohoku University",
+      "address": "2 Chome-1-1 Katahira, Aoba Ward, Sendai, Miyagi 980-8577, Japan"
+    },
+    {
+      "name": "Nagoya University",
+      "address": "Furocho, Chikusa Ward, Nagoya, Aichi 464-8601, Japan"
+    }
+  ],
+  "Jordan": [
+    {
+      "name": "University of Jordan",
+      "address": "Queen Rania Street, Amman, Jordan"
+    },
+    {
+      "name": "Jordan University of Science & Technology",
+      "address": "Irbid, Jordan"
+    },
+    {
+      "name": "Yarmouk University",
+      "address": "Shafiq Irshidat St, Irbid, Jordan"
+    },
+    {
+      "name": "Hashemite University",
+      "address": "Zarqa, Jordan"
+    },
+    {
+      "name": "Princess Sumaya University for Technology",
+      "address": "Khalil Al-Saket Street, Amman, Jordan"
+    }
+  ],
+  "Kazakhstan": [
+    {
+      "name": "Al-Farabi Kazakh National University",
+      "address": "71 Al-Farabi Ave, Almaty, Kazakhstan"
+    },
+    {
+      "name": "Nazarbayev University",
+      "address": "53 Kabanbay Batyr Ave, Nur-Sultan (Astana), Kazakhstan"
+    },
+    {
+      "name": "Kazakh National Technical University",
+      "address": "22 Satpaev Street, Almaty, Kazakhstan"
+    },
+    {
+      "name": "KIMEP University",
+      "address": "4 Abai Avenue, Almaty, Kazakhstan"
+    },
+    {
+      "name": "Suleyman Demirel University",
+      "address": "1/1 Abylai Khan Street, Kaskelen, Kazakhstan"
+    }
+  ],
+  "Kenya": [
+    {
+      "name": "University of Nairobi",
+      "address": "University Way, Nairobi, Kenya"
+    },
+    {
+      "name": "Kenyatta University",
+      "address": "Thika Road, Nairobi, Kenya"
+    },
+    {
+      "name": "Moi University",
+      "address": "Mabsout building, Eldoret, Kenya"
+    },
+    {
+      "name": "Egerton University",
+      "address": "Njoro, Nakuru, Kenya"
+    },
+    {
+      "name": "Jomo Kenyatta University of Agriculture and Technology",
+      "address": "Thika Super Highway, Juja, Kenya"
+    }
+  ],
+  "Kosovo": [
+    {
+      "name": "University of Pristina",
+      "address": "George Bush Street, Pristina, Kosovo"
+    },
+    {
+      "name": "University for Business and Technology",
+      "address": "Lagjja Kalabria, Pristina, Kosovo"
+    },
+    {
+      "name": "European University of Kosovo",
+      "address": "Unknown"
+    },
+    {
+      "name": "Mother Teresa University",
+      "address": "Str. '122' no. 2, Ilinden Municipality, Skopje, North Macedonia"
+    },
+    {
+      "name": "Kosovo Physics Society University",
+      "address": "Unknown"
+    }
+  ],
+  "Kuwait": [
+    {
+      "name": "Kuwait University",
+      "address": "Jamal Abdul Nasser Street, Shuwaikh, Kuwait"
+    },
+    {
+      "name": "Gulf University for Science & Technology",
+      "address": "Block 5, Building 1, Mubarak Al-Abdullah Area / West Mishref, Kuwait"
+    },
+    {
+      "name": "American University of Kuwait",
+      "address": "Salem Al-Mubarak Street, Salmiya, Kuwait"
+    },
+    {
+      "name": "Box Hill College Kuwait",
+      "address": "Abu Haleefa, Block 1, Road 228, Building 2, Kuwait"
+    },
+    {
+      "name": "Australian College of Kuwait",
+      "address": "Block 5, Mubarak Al-Abdullah Al-Jaber Area, West Mishref, Kuwait"
+    }
+  ],
+  "Kyrgyzstan": [
+    {
+      "name": "Kyrgyz National University",
+      "address": "547 Frunze Street, Bishkek, Kyrgyzstan"
+    },
+    {
+      "name": "American University of Central Asia",
+      "address": "205 Abdumomunov Street, Bishkek, Kyrgyzstan"
+    },
+    {
+      "name": "Kyrgyz State Technical University",
+      "address": "66 Prospekt Mira, Bishkek, Kyrgyzstan"
+    },
+    {
+      "name": "International University of Kyrgyzstan",
+      "address": "255 Chui Avenue, Bishkek, Kyrgyzstan"
+    },
+    {
+      "name": "Bishkek Humanities University",
+      "address": "27 Prospekt Mira, Bishkek, Kyrgyzstan"
+    }
+  ],
+  "Laos": [
+    {
+      "name": "National University of Laos",
+      "address": "Dongdok Campus, Vientiane, Laos"
+    },
+    {
+      "name": "Lao University of Health Sciences",
+      "address": "Samsenthai Road, Vientiane, Laos"
+    },
+    {
+      "name": "Lao-American College",
+      "address": "Phonsa-ath Village, Vientiane, Laos"
+    },
+    {
+      "name": "Souphanouvong University",
+      "address": "Luang Prabang, Laos"
+    },
+    {
+      "name": "Champasak University",
+      "address": "Pakse, Champasak Province, Laos"
+    }
+  ],
+  "Latvia": [
+    {
+      "name": "University of Latvia",
+      "address": "Raiņa bulvāris 19, Rīga, LV-1586, Latvia"
+    },
+    {
+      "name": "Riga Technical University",
+      "address": "Kaļķu iela 1, Rīga, LV-1658, Latvia"
+    },
+    {
+      "name": "Latvian University of Life Sciences and Technologies",
+      "address": "Lielā iela 2, Jelgava, LV-3001, Latvia"
+    },
+    {
+      "name": "Riga Stradins University",
+      "address": "Dzirciema iela 16, Rīga, LV-1007, Latvia"
+    },
+    {
+      "name": "Turība University",
+      "address": "Graudu iela 68, Rīga, LV-1058, Latvia"
+    }
+  ],
+  "Lebanon": [
+    {
+      "name": "American University of Beirut",
+      "address": "Bliss St, Beirut, Lebanon"
+    },
+    {
+      "name": "Lebanese American University",
+      "address": "Koura, North Lebanon, Lebanon"
+    },
+    {
+      "name": "Université Saint-Joseph",
+      "address": "Rue de Damas, Beirut, Lebanon"
+    },
+    {
+      "name": "Holy Spirit University of Kaslik",
+      "address": "Jounieh, Keserwan, Lebanon"
+    },
+    {
+      "name": "Lebanese University",
+      "address": "Museum Square, Beirut, Lebanon"
+    }
+  ],
+  "Liberia": [
+    {
+      "name": "University of Liberia",
+      "address": "Capitol Hill, Monrovia, Liberia"
+    },
+    {
+      "name": "Booker Washington Institute",
+      "address": "Kakata, Margibi County, Liberia"
+    },
+    {
+      "name": "United Methodist University Liberia",
+      "address": "Ashmun Street, Monrovia, Liberia"
+    },
+    {
+      "name": "African Methodist Episcopal University",
+      "address": "34 Camp Johnson Road, Monrovia, Liberia"
+    },
+    {
+      "name": "Lofa Community College",
+      "address": "Voinjama, Lofa County, Liberia"
+    }
+  ],
+  "Libya": [
+    {
+      "name": "University of Tripoli",
+      "address": "University Road, Tripoli, Libya"
+    },
+    {
+      "name": "University of Benghazi",
+      "address": "Gamal Abdel Nasser St, Benghazi, Libya"
+    },
+    {
+      "name": "Misurata University",
+      "address": "Airport Road, Misurata, Libya"
+    },
+    {
+      "name": "University of Sabha",
+      "address": "Sabha, Libya"
+    },
+    {
+      "name": "University of Zawiya",
+      "address": "Zawiya, Libya"
+    }
+  ],
+  "Lithuania": [
+    {
+      "name": "Vilnius University",
+      "address": "Universiteto g. 3, Vilnius 01513, Lithuania"
+    },
+    {
+      "name": "Kaunas University of Technology",
+      "address": "K. Donelaičio g. 73, Kaunas 44249, Lithuania"
+    },
+    {
+      "name": "Vytautas Magnus University",
+      "address": "K. Donelaičio g. 58, Kaunas 44248, Lithuania"
+    },
+    {
+      "name": "Klaipėda University",
+      "address": "Herkaus Manto g. 84, Klaipėda 92294, Lithuania"
+    },
+    {
+      "name": "Lithuanian University of Health Sciences",
+      "address": "A. Mickevičiaus g. 9, Kaunas 44307, Lithuania"
+    }
+  ],
+  "Luxembourg": [
+    {
+      "name": "University of Luxembourg",
+      "address": "2, avenue de l'Université, L-4365 Esch-sur-Alzette, Luxembourg"
+    },
+    {
+      "name": "Luxembourg School of Business",
+      "address": "4, rue Albert Borschette, L-1246 Luxembourg"
+    },
+    {
+      "name": "Sacred Heart University Luxembourg",
+      "address": "7, rue Alcide de Gasperi, L-1615 Luxembourg"
+    },
+    {
+      "name": "Univerity of Luxembourg Campus Belval",
+      "address": "2, avenue de l'Université, L-4365 Esch-sur-Alzette, Luxembourg"
+    },
+    {
+      "name": "International School of Luxembourg",
+      "address": "36 Boulevard Pierre Dupong, 1430 Luxembourg"
+    }
+  ],
+  "Madagascar": [
+    {
+      "name": "University of Antananarivo",
+      "address": "Ankatso, Antananarivo, Madagascar"
+    },
+    {
+      "name": "University of Fianarantsoa",
+      "address": "Andrainjato, Fianarantsoa, Madagascar"
+    },
+    {
+      "name": "University of Toliara",
+      "address": "Maninday, Toliara, Madagascar"
+    },
+    {
+      "name": "University of Mahajanga",
+      "address": "Ambondrona, Mahajanga, Madagascar"
+    },
+    {
+      "name": "University of Toamasina",
+      "address": "Barikadimy, Toamasina, Madagascar"
+    }
+  ],
+  "Malaysia": [
+    {
+      "name": "University of Malaya",
+      "address": "Jalan Universiti, 50603 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+    },
+    {
+      "name": "Universiti Kebangsaan Malaysia",
+      "address": "43600 UKM, Bangi, Selangor, Malaysia"
+    },
+    {
+      "name": "Universiti Putra Malaysia",
+      "address": "43400 UPM Serdang, Selangor, Malaysia"
+    },
+    {
+      "name": "Universiti Sains Malaysia",
+      "address": "11800 USM, Pulau Pinang, Malaysia"
+    },
+    {
+      "name": "Taylor’s University",
+      "address": "No. 1, Jalan Taylor's, 47500 Subang Jaya, Selangor, Malaysia"
+    }
+  ],
+  "Maldives": [
+    {
+      "name": "University of the Maldives",
+      "address": "Buruzu Magu, Malé, Maldives"
+    },
+    {
+      "name": "Maafushi Vocational & Training Institute",
+      "address": "Maafushi, Kaafu Atoll, Maldives"
+    },
+    {
+      "name": "Villa College",
+      "address": "Greenge, Male' 20212, Maldives"
+    },
+    {
+      "name": "Maldives National University",
+      "address": "Buruzu Magu, Malé, Maldives"
+    },
+    {
+      "name": "Pacific Academy Maldives",
+      "address": "Unknown"
+    }
+  ],
+  "Mexico": [
+    {
+      "name": "National Autonomous University of Mexico",
+      "address": "Av. Universidad 3000, Coyoacán, 04510 Ciudad de México, CDMX, Mexico"
+    },
+    {
+      "name": "Monterrey Institute of Technology",
+      "address": "Av. Eugenio Garza Sada 2501 Sur, Tecnológico, 64849 Monterrey, N.L., Mexico"
+    },
+    {
+      "name": "University of Guadalajara",
+      "address": "Av. Juárez 976, Colonia Centro, 44100 Guadalajara, Jal., Mexico"
+    },
+    {
+      "name": "Benemérita Universidad Autónoma de Puebla",
+      "address": "Calle 4 Sur 104, Centro histórico de Puebla, 72000 Puebla, Pue., Mexico"
+    },
+    {
+      "name": "Autonomous University of Nuevo León",
+      "address": "Pedro de Alba s/n, San Nicolás de los Garza, N.L., Mexico"
+    }
+  ],
+  "Monaco": [
+    {
+      "name": "International University of Monaco",
+      "address": "Le Stella, 14 Rue Hubert Clerissi, 98000 Monaco"
+    },
+    {
+      "name": "Monaco Graduate Institute",
+      "address": "Unknown"
+    },
+    {
+      "name": "Monaco Polytechnic Institute",
+      "address": "Unknown"
+    },
+    {
+      "name": "University of Monaco",
+      "address": "Unknown"
+    },
+    {
+      "name": "Monaco Business School",
+      "address": "Le Stella, 14 Rue Hubert Clerissi, 98000 Monaco"
+    }
+  ],
+  "Mongolia": [
+    {
+      "name": "National University of Mongolia",
+      "address": "University Street 1, Ulaanbaatar 14201, Mongolia"
+    },
+    {
+      "name": "Mongolian University of Science and Technology",
+      "address": "Baga Toiruu-34, Sukhbaatar District, Ulaanbaatar 14191, Mongolia"
+    },
+    {
+      "name": "Mongolian State University of Education",
+      "address": "Baga Toiruu Street, Ulaanbaatar, Mongolia"
+    },
+    {
+      "name": "University of the Humanities Mongolia",
+      "address": "Khan-Uul District, 3rd khoroo, Ulaanbaatar, Mongolia"
+    },
+    {
+      "name": "NUM School of Medicine",
+      "address": "Sukhbaatar District, Zorig Street, Ulaanbaatar, Mongolia"
+    }
+  ],
+  "Morocco": [
+    {
+      "name": "Mohammed V University",
+      "address": "Avenue des Nations Unies, Agdal, Rabat, Morocco"
+    },
+    {
+      "name": "Cadi Ayyad University",
+      "address": "Avenue Prince Moulay Abdellah, Marrakesh, Morocco"
+    },
+    {
+      "name": "Hassan II University",
+      "address": "19, Rue Tarik Bnou Ziad, Casablanca, Morocco"
+    },
+    {
+      "name": "Al Akhawayn University",
+      "address": "Avenue Hassan II, Ifrane 53000, Morocco"
+    },
+    {
+      "name": "Ibn Tofail University",
+      "address": "Campus Universitaire, BP 242, Kenitra, Morocco"
+    }
+  ],
+  "Myanmar": [
+    {
+      "name": "University of Yangon",
+      "address": "University Avenue Road, Kamayut Township, Yangon, Myanmar"
+    },
+    {
+      "name": "University of Mandalay",
+      "address": "University Campus, Mandalay, Myanmar"
+    },
+    {
+      "name": "University of Mawlamyine",
+      "address": "Mawlamyine, Mon State, Myanmar"
+    },
+    {
+      "name": "Technological University Yangon",
+      "address": "Gyogone, Insein Township, Yangon, Myanmar"
+    },
+    {
+      "name": "University of Magway",
+      "address": "Magway, Magway Region, Myanmar"
+    }
+  ],
+  "Namibia": [
+    {
+      "name": "University of Namibia",
+      "address": "340 Mandume Ndemufayo Ave, Pionierspark, Windhoek, Namibia"
+    },
+    {
+      "name": "Namibia University of Science and Technology",
+      "address": "13 Storch Street, Windhoek, Namibia"
+    },
+    {
+      "name": "International University of Management",
+      "address": "21-31 Bach Street, Windhoek West, Windhoek, Namibia"
+    },
+    {
+      "name": "Welwitchia Health Training",
+      "address": "Corner of Haddy and Tutaleni Street, Windhoek, Namibia"
+    },
+    {
+      "name": "Namibia University of Agriculture",
+      "address": "Unknown"
+    }
+  ],
+  "Nepal": [
+    {
+      "name": "Tribhuvan University",
+      "address": "Kirtipur, Kathmandu, Nepal"
+    },
+    {
+      "name": "Kathmandu University",
+      "address": "Dhulikhel, Kavre, Nepal"
+    },
+    {
+      "name": "Purbanchal University",
+      "address": "Biratnagar, Morang, Nepal"
+    },
+    {
+      "name": "Pokhara University",
+      "address": "Lekhnath, Kaski, Nepal"
+    },
+    {
+      "name": "Mid-Western University",
+      "address": "Birendranagar, Surkhet, Nepal"
+    }
+  ],
+  "Netherlands": [
+    {
+      "name": "University of Amsterdam",
+      "address": "Spui 21, 1012 WX Amsterdam, Netherlands"
+    },
+    {
+      "name": "Delft University of Technology",
+      "address": "Mekelweg 2, 2628 CD Delft, Netherlands"
+    },
+    {
+      "name": "Leiden University",
+      "address": "Rapenburg 70, 2311 EZ Leiden, Netherlands"
+    },
+    {
+      "name": "Utrecht University",
+      "address": "Domplein 29, 3512 JE Utrecht, Netherlands"
+    },
+    {
+      "name": "Erasmus University Rotterdam",
+      "address": "Burgemeester Oudlaan 50, 3062 PA Rotterdam, Netherlands"
+    }
+  ],
+  "New Zealand": [
+    {
+      "name": "University of Auckland",
+      "address": "Princes Street, Auckland 1010, New Zealand"
+    },
+    {
+      "name": "University of Otago",
+      "address": "362 Leith Street, Dunedin 9016, New Zealand"
+    },
+    {
+      "name": "Victoria University of Wellington",
+      "address": "Kelburn Parade, Kelburn, Wellington 6012, New Zealand"
+    },
+    {
+      "name": "University of Canterbury",
+      "address": "20 Kirkwood Ave, Upper Riccarton, Christchurch 8041, New Zealand"
+    },
+    {
+      "name": "Massey University",
+      "address": "Tennent Drive, Palmerston North 4410, New Zealand"
+    }
+  ],
+  "Nigeria": [
+    {
+      "name": "University of Lagos",
+      "address": "Akoka Rd, Yaba, Lagos, Nigeria"
+    },
+    {
+      "name": "University of Ibadan",
+      "address": "Ibadan, Oyo State, Nigeria"
+    },
+    {
+      "name": "Obafemi Awolowo University",
+      "address": "Ife, Osun State, Nigeria"
+    },
+    {
+      "name": "Covenant University",
+      "address": "Km 10 Idiroko Road, Ota, Ogun State, Nigeria"
+    },
+    {
+      "name": "Ahmadu Bello University",
+      "address": "Sokoto Road, Samaru, Zaria, Kaduna State, Nigeria"
+    }
+  ],
+  "North Korea": [
+    {
+      "name": "Kim Il Sung University",
+      "address": "Ryongnam Hill, Taesong District, Pyongyang, North Korea"
+    },
+    {
+      "name": "Kim Chaek University of Technology",
+      "address": "Chongryu-dong No. 2, Chung-guyok, Pyongyang, North Korea"
+    },
+    {
+      "name": "Pyongyang University of Foreign Studies",
+      "address": "Sosong District, Pyongyang, North Korea"
+    },
+    {
+      "name": "University of Science and Technology Pyongyang",
+      "address": "Pyongsong, South Pyongan Province, North Korea"
+    },
+    {
+      "name": "Hamhung University",
+      "address": "Hamhung, South Hamgyong Province, North Korea"
+    }
+  ],
+  "Norway": [
+    {
+      "name": "University of Oslo",
+      "address": "Problemveien 7, 0315 Oslo, Norway"
+    },
+    {
+      "name": "Norwegian University of Science and Technology",
+      "address": "Høgskoleringen 1, 7491 Trondheim, Norway"
+    },
+    {
+      "name": "University of Bergen",
+      "address": "Muséplassen 1, 5007 Bergen, Norway"
+    },
+    {
+      "name": "University of Tromsø",
+      "address": "Hansine Hansens veg 18, 9019 Tromsø, Norway"
+    },
+    {
+      "name": "BI Norwegian Business School",
+      "address": "Nydalsveien 37, 0484 Oslo, Norway"
+    }
+  ],
+  "Oman": [
+    {
+      "name": "Sultan Qaboos University",
+      "address": "Al Khoudh, Muscat, Oman"
+    },
+    {
+      "name": "Middle East College",
+      "address": "Knowledge Oasis, Muscat, Oman"
+    },
+    {
+      "name": "Dhofar University",
+      "address": "Salalah, Dhofar Governorate, Oman"
+    },
+    {
+      "name": "Gulf College Oman",
+      "address": "Al-Hail South, Muscat, Oman"
+    },
+    {
+      "name": "University of Technology and Applied Sciences",
+      "address": "Airport Heights, Bousher, Muscat, Oman"
+    }
+  ],
+  "Pakistan": [
+    {
+      "name": "University of the Punjab",
+      "address": "Canal Rd, Quaid-i-Azam Campus, Lahore, Punjab, Pakistan"
+    },
+    {
+      "name": "National University of Sciences and Technology",
+      "address": "H-12, Islamabad, Islamabad Capital Territory, Pakistan"
+    },
+    {
+      "name": "Lahore University of Management Sciences",
+      "address": "DHA, Lahore Cantt, Lahore, Punjab, Pakistan"
+    },
+    {
+      "name": "University of Karachi",
+      "address": "University Rd, Karachi, Sindh, Pakistan"
+    },
+    {
+      "name": "COMSATS Institute",
+      "address": "Park Road, Tarlai Kalan, Islamabad, Pakistan"
+    }
+  ],
+  "Panama": [
+    {
+      "name": "University of Panama",
+      "address": "Vía Simón Bolívar, Panama City, Panama"
+    },
+    {
+      "name": "Technological University of Panama",
+      "address": "Avenida Ricardo J. Alfaro, Panama City, Panama"
+    },
+    {
+      "name": "Santa Maria La Antigua University",
+      "address": "Avenida Ricardo J. Alfaro, Panama City, Panama"
+    },
+    {
+      "name": "Faith International University of Panama",
+      "address": "Unknown"
+    },
+    {
+      "name": "Panama Pacific University",
+      "address": "Unknown"
+    }
+  ],
+  "Papua New Guinea": [
+    {
+      "name": "University of Papua New Guinea",
+      "address": "Waigani Drive, Port Moresby, National Capital District, Papua New Guinea"
+    },
+    {
+      "name": "Pacific Adventist University",
+      "address": "Koiari Park, Port Moresby, Papua New Guinea"
+    },
+    {
+      "name": "Goroka Teachers College",
+      "address": "Goroka, Eastern Highlands Province, Papua New Guinea"
+    },
+    {
+      "name": "University of Technology PNG",
+      "address": "Lae, Morobe Province, Papua New Guinea"
+    },
+    {
+      "name": "Divine Word University",
+      "address": "Madang, Madang Province, Papua New Guinea"
+    }
+  ],
+  "Paraguay": [
+    {
+      "name": "National University of Asunción",
+      "address": "Av. Mcal. López, San Lorenzo, Paraguay"
+    },
+    {
+      "name": "Universidad Católica Nuestra Señora de la Asunción",
+      "address": "Independencia Nacional y Comuneros, Asunción, Paraguay"
+    },
+    {
+      "name": "Universidad Nacional de Pilar",
+      "address": "Mcal. Estigarribia, Pilar, Paraguay"
+    },
+    {
+      "name": "Universidad Nacional de Itapúa",
+      "address": "Abog. Lorenzo Zacarías, Encarnación, Paraguay"
+    },
+    {
+      "name": "Universidad Americana",
+      "address": "Av. Brasilia 1100, Asunción, Paraguay"
+    }
+  ],
+  "Peru": [
+    {
+      "name": "National University of San Marcos",
+      "address": "Av. Venezuela s/n, Lima 15081, Peru"
+    },
+    {
+      "name": "Pontifical Catholic University of Peru",
+      "address": "Av. Universitaria 1801, San Miguel, Lima 15088, Peru"
+    },
+    {
+      "name": "University of Lima",
+      "address": "Av. Javier Prado Este 4600, Santiago de Surco, Lima 15023, Peru"
+    },
+    {
+      "name": "Cayetano Heredia University",
+      "address": "Av. Honorio Delgado 430, San Martín de Porres, Lima 15102, Peru"
+    },
+    {
+      "name": "National University of Engineering",
+      "address": "Av. Túpac Amaru 210, Rímac, Lima 15333, Peru"
+    }
+  ],
+  "Philippines": [
+    {
+      "name": "University of the Philippines Diliman",
+      "address": "Roxas Ave, Diliman, Quezon City, Metro Manila, Philippines"
+    },
+    {
+      "name": "Ateneo de Manila University",
+      "address": "Katipunan Ave, Quezon City, 1108 Metro Manila, Philippines"
+    },
+    {
+      "name": "De La Salle University",
+      "address": "2401 Taft Ave, Malate, Manila, 1004 Metro Manila, Philippines"
+    },
+    {
+      "name": "University of Santo Tomas",
+      "address": "España Blvd, Sampaloc, Manila, 1008 Metro Manila, Philippines"
+    },
+    {
+      "name": "Mapúa University",
+      "address": "658 Muralla St, Intramuros, Manila, 1002 Metro Manila, Philippines"
+    }
+  ],
+  "Poland": [
+    {
+      "name": "University of Warsaw",
+      "address": "Krakowskie Przedmieście 26/28, 00-927 Warsaw, Poland"
+    },
+    {
+      "name": "Jagiellonian University",
+      "address": "Gołębia 24, 31-007 Kraków, Poland"
+    },
+    {
+      "name": "Warsaw University of Technology",
+      "address": "plac Politechniki 1, 00-661 Warsaw, Poland"
+    },
+    {
+      "name": "Adam Mickiewicz University",
+      "address": "Wieniawskiego 1, 61-712 Poznań, Poland"
+    },
+    {
+      "name": "Gdańsk University of Technology",
+      "address": "Narutowicza 11/12, 80-233 Gdańsk, Poland"
+    }
+  ],
+  "Portugal": [
+    {
+      "name": "University of Lisbon",
+      "address": "Alameda da Universidade, 1649-004 Lisboa, Portugal"
+    },
+    {
+      "name": "University of Porto",
+      "address": "Praça de Gomes Teixeira, 4099-002 Porto, Portugal"
+    },
+    {
+      "name": "University of Coimbra",
+      "address": "Paço das Escolas, 3004-531 Coimbra, Portugal"
+    },
+    {
+      "name": "Nova University Lisbon",
+      "address": "Campus de Campolide, 1099-085 Lisboa, Portugal"
+    },
+    {
+      "name": "University of Minho",
+      "address": "Largo do Paço, 4704-553 Braga, Portugal"
+    }
+  ],
+  "Qatar": [
+    {
+      "name": "Qatar University",
+      "address": "Al Tarfa, Doha, Qatar"
+    },
+    {
+      "name": "Carnegie Mellon University Qatar",
+      "address": "Education City, Doha, Qatar"
+    },
+    {
+      "name": "Texas A&M University Qatar",
+      "address": "Education City, Doha, Qatar"
+    },
+    {
+      "name": "Weill Cornell Medicine Qatar",
+      "address": "Education City, Doha, Qatar"
+    },
+    {
+      "name": "Hamad Bin Khalifa University",
+      "address": "Education City, Doha, Qatar"
+    }
+  ],
+  "Romania": [
+    {
+      "name": "University of Bucharest",
+      "address": "Bulevardul Mihail Kogălniceanu 36-46, București 050107, Romania"
+    },
+    {
+      "name": "Babeș-Bolyai University",
+      "address": "Strada Mihail Kogălniceanu 1, Cluj-Napoca 400084, Romania"
+    },
+    {
+      "name": "University Politehnica of Bucharest",
+      "address": "Splaiul Independenței 313, București 060042, Romania"
+    },
+    {
+      "name": "Alexandru Ioan Cuza University",
+      "address": "Bulevardul Carol I 11, Iași 700506, Romania"
+    },
+    {
+      "name": "Technical University of Cluj-Napoca",
+      "address": "Strada Memorandumului 28, Cluj-Napoca 400114, Romania"
+    }
+  ],
+  "Russia": [
+    {
+      "name": "Lomonosov Moscow State University",
+      "address": "Leninskie Gory, 1, Moscow, Russia, 119991"
+    },
+    {
+      "name": "Saint Petersburg State University",
+      "address": "Universitetskaya Embankment, 7/9, St. Petersburg, Russia, 199034"
+    },
+    {
+      "name": "Bauman Moscow State Technical University",
+      "address": "2-ya Baumanskaya ul., 5, Moscow, Russia, 105005"
+    },
+    {
+      "name": "Novosibirsk State University",
+      "address": "Pirogova St, 2, Novosibirsk, Russia, 630090"
+    },
+    {
+      "name": "Tomsk State University",
+      "address": "Lenin Avenue, 36, Tomsk, Russia, 634050"
+    }
+  ],
+  "Saint Lucia": [
+    {
+      "name": "University of the West Indies Open Campus",
+      "address": "Morne Fortune, Castries, Saint Lucia"
+    },
+    {
+      "name": "Sir Arthur Lewis Community College",
+      "address": "Morne Fortune, Castries, Saint Lucia"
+    },
+    {
+      "name": "International American University Saint Lucia",
+      "address": "Vieux Fort, Saint Lucia"
+    },
+    {
+      "name": "Caribbean Medical University",
+      "address": "Vide Bouteille, Castries, Saint Lucia"
+    },
+    {
+      "name": "St. Lucia School of Nursing",
+      "address": "Victoria Hospital Compound, Castries, Saint Lucia"
+    }
+  ],
+  "Samoa": [
+    {
+      "name": "National University of Samoa",
+      "address": "Le Papaigalagala, Apia, Samoa"
+    },
+    {
+      "name": "University of the South Pacific Samoa campus",
+      "address": "Alafua, Apia, Samoa"
+    },
+    {
+      "name": "Samoa Polytechnic",
+      "address": "Vaivase-uta, Apia, Samoa"
+    },
+    {
+      "name": "Alafua Campus Institute",
+      "address": "Alafua, Apia, Samoa"
+    },
+    {
+      "name": "Samoa School of Nursing",
+      "address": "Moto'otua, Apia, Samoa"
+    }
+  ],
+  "San Marino": [
+    {
+      "name": "University of San Marino",
+      "address": "Contrada Omerelli, 20, 47890 Città di San Marino, San Marino"
+    },
+    {
+      "name": "State University of San Marino",
+      "address": "Contrada Omerelli, 20, 47890 Città di San Marino, San Marino"
+    },
+    {
+      "name": "San Marino Academy",
+      "address": "Unknown"
+    },
+    {
+      "name": "San Marino University Campus",
+      "address": "Contrada Omerelli, 20, 47890 Città di San Marino, San Marino"
+    },
+    {
+      "name": "International Institute San Marino",
+      "address": "Unknown"
+    }
+  ],
+  "Saudi Arabia": [
+    {
+      "name": "King Saud University",
+      "address": "King Abdullah Road, Riyadh 11543, Saudi Arabia"
+    },
+    {
+      "name": "King Fahd University of Petroleum & Minerals",
+      "address": "Dhahran 31261, Saudi Arabia"
+    },
+    {
+      "name": "King Abdulaziz University",
+      "address": "Abdullah Sulayman Street, Jeddah 21589, Saudi Arabia"
+    },
+    {
+      "name": "Imam Abdulrahman Bin Faisal University",
+      "address": "King Faisal Road, Dammam 34212, Saudi Arabia"
+    },
+    {
+      "name": "Alfaisal University",
+      "address": "Takhassusi Rd, Al Ma'athar, Riyadh 11533, Saudi Arabia"
+    }
+  ],
+  "Senegal": [
+    {
+      "name": "Cheikh Anta Diop University",
+      "address": "Avenue Cheikh Anta Diop, Dakar, Senegal"
+    },
+    {
+      "name": "University Gaston Berger",
+      "address": "Route de Ngallèle, Saint-Louis, Senegal"
+    },
+    {
+      "name": "Université de Thiès",
+      "address": "10ème RIAOM, Thiès, Senegal"
+    },
+    {
+      "name": "Université Assane Seck Ziguinchor",
+      "address": "Route de l'Aéroport, Ziguinchor, Senegal"
+    },
+    {
+      "name": "Université Alioune Diop",
+      "address": "Bambey, Diourbel Region, Senegal"
+    }
+  ],
+  "Serbia": [
+    {
+      "name": "University of Belgrade",
+      "address": "Studentski trg 1, Beograd 11000, Serbia"
+    },
+    {
+      "name": "University of Novi Sad",
+      "address": "Dr Zorana Đinđića 1, Novi Sad 21000, Serbia"
+    },
+    {
+      "name": "University of Niš",
+      "address": "Univerzitetski trg 2, Niš 18000, Serbia"
+    },
+    {
+      "name": "University of Kragujevac",
+      "address": "Jovana Cvijića bb, Kragujevac 34000, Serbia"
+    },
+    {
+      "name": "University of Priština",
+      "address": "Kosančićeva bb, Kosovska Mitrovica 38220, Kosovo"
+    }
+  ],
+  "Singapore": [
+    {
+      "name": "National University of Singapore",
+      "address": "21 Lower Kent Ridge Rd, Singapore 119077"
+    },
+    {
+      "name": "Nanyang Technological University",
+      "address": "50 Nanyang Ave, Singapore 639798"
+    },
+    {
+      "name": "Singapore Management University",
+      "address": "81 Victoria St, Singapore 188065"
+    },
+    {
+      "name": "Singapore University of Technology and Design",
+      "address": "8 Somapah Rd, Singapore 487372"
+    },
+    {
+      "name": "James Cook University Singapore",
+      "address": "149 Sims Dr, Singapore 387380"
+    }
+  ],
+  "Somalia": [
+    {
+      "name": "Somali National University",
+      "address": "KM4, Hodan District, Mogadishu, Somalia"
+    },
+    {
+      "name": "Mogadishu University",
+      "address": "Wadajir District, Mogadishu, Somalia"
+    },
+    {
+      "name": "Amoud University",
+      "address": "Borama, Awdal Region, Somaliland"
+    },
+    {
+      "name": "Hargeisa University",
+      "address": "Hargeisa, Woqooyi Galbeed, Somaliland"
+    },
+    {
+      "name": "SIMAD University",
+      "address": "Madina Road, Mogadishu, Somalia"
+    }
+  ],
+  "South Africa": [
+    {
+      "name": "University of Cape Town",
+      "address": "Rondebosch, Cape Town, 7701, South Africa"
+    },
+    {
+      "name": "University of the Witwatersrand",
+      "address": "1 Jan Smuts Ave, Braamfontein, Johannesburg, 2000, South Africa"
+    },
+    {
+      "name": "University of Pretoria",
+      "address": "Lynnwood Rd, Hatfield, Pretoria, 0002, South Africa"
+    },
+    {
+      "name": "Stellenbosch University",
+      "address": "Victoria St, Stellenbosch Central, Stellenbosch, 7600, South Africa"
+    },
+    {
+      "name": "University of KwaZulu-Natal",
+      "address": "Rick Turner Rd, Westville, Durban, 4001, South Africa"
+    }
+  ],
+  "South Korea": [
+    {
+      "name": "Seoul National University",
+      "address": "1 Gwanak-ro, Gwanak-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Korea University",
+      "address": "145 Anam-ro, Seongbuk-gu, Seoul, South Korea"
+    },
+    {
+      "name": "Yonsei University",
+      "address": "50 Yonsei-ro, Seodaemun-gu, Seoul, South Korea"
+    },
+    {
+      "name": "KAIST",
+      "address": "291 Daehak-ro, Yuseong-gu, Daejeon, South Korea"
+    },
+    {
+      "name": "POSTECH",
+      "address": "77 Cheongam-ro, Nam-gu, Pohang, Gyeongsangbuk-do, South Korea"
+    }
+  ],
+  "South Sudan": [
+    {
+      "name": "University of Juba",
+      "address": "Juba, South Sudan"
+    },
+    {
+      "name": "Juba University College",
+      "address": "Juba, South Sudan"
+    },
+    {
+      "name": "Upper Nile University",
+      "address": "Malakal, Upper Nile State, South Sudan"
+    },
+    {
+      "name": "Catholic University of South Sudan",
+      "address": "Juba, South Sudan"
+    },
+    {
+      "name": "Nile Empire University",
+      "address": "Unknown"
+    }
+  ],
+  "Spain": [
+    {
+      "name": "University of Barcelona",
+      "address": "Gran Via de les Corts Catalanes, 585, 08007 Barcelona, Spain"
+    },
+    {
+      "name": "Complutense University of Madrid",
+      "address": "Av. de Séneca, 2, 28040 Madrid, Spain"
+    },
+    {
+      "name": "Autonomous University of Madrid",
+      "address": "Ciudad Universitaria de Cantoblanco, 28049 Madrid, Spain"
+    },
+    {
+      "name": "University of Valencia",
+      "address": "Av. de Blasco Ibáñez, 13, 46010 València, Valencia, Spain"
+    },
+    {
+      "name": "University of Granada",
+      "address": "Av. del Hospicio, s/n, 18010 Granada, Spain"
+    }
+  ],
+  "Sri Lanka": [
+    {
+      "name": "University of Colombo",
+      "address": "Cumaratunga Munidasa Mawatha, Colombo 00300, Sri Lanka"
+    },
+    {
+      "name": "University of Peradeniya",
+      "address": "Peradeniya 20400, Sri Lanka"
+    },
+    {
+      "name": "University of Kelaniya",
+      "address": "Dalugama, Kelaniya 11600, Sri Lanka"
+    },
+    {
+      "name": "University of Moratuwa",
+      "address": "Bandaranayake Mawatha, Moratuwa 10400, Sri Lanka"
+    },
+    {
+      "name": "University of Sri Jayewardenepura",
+      "address": "Gangodawila, Nugegoda, Sri Lanka"
+    }
+  ],
+  "Sudan": [
+    {
+      "name": "University of Khartoum",
+      "address": "Al-Jamaa Avenue, Khartoum, Sudan"
+    },
+    {
+      "name": "University of Gezira",
+      "address": "Wad Madani, Gezira State, Sudan"
+    },
+    {
+      "name": "Sudan University of Science & Technology",
+      "address": "Al-Mugran, Khartoum, Sudan"
+    },
+    {
+      "name": "Omdurman Islamic University",
+      "address": "Omdurman, Khartoum State, Sudan"
+    },
+    {
+      "name": "University of Juba (Sudan)",
+      "address": "Currently in Juba, South Sudan"
+    }
+  ],
+  "Sweden": [
+    {
+      "name": "Lund University",
+      "address": "Paradisgatan 2, 221 00 Lund, Sweden"
+    },
+    {
+      "name": "Uppsala University",
+      "address": "Biskopsgatan 3, 753 10 Uppsala, Sweden"
+    },
+    {
+      "name": "KTH Royal Institute of Technology",
+      "address": "Brinellvägen 8, 114 28 Stockholm, Sweden"
+    },
+    {
+      "name": "Chalmers University of Technology",
+      "address": "Chalmersplatsen 4, 412 96 Göteborg, Sweden"
+    },
+    {
+      "name": "Stockholm University",
+      "address": "Universitetsvägen 10A, 114 18 Stockholm, Sweden"
+    }
+  ],
+  "Switzerland": [
+    {
+      "name": "ETH Zurich",
+      "address": "Rämistrasse 101, 8092 Zürich, Switzerland"
+    },
+    {
+      "name": "University of Zurich",
+      "address": "Rämistrasse 71, 8006 Zürich, Switzerland"
+    },
+    {
+      "name": "École Polytechnique Fédérale de Lausanne",
+      "address": "Route Cantonale, 1015 Lausanne, Switzerland"
+    },
+    {
+      "name": "University of Geneva",
+      "address": "Rue du Général-Dufour 24, 1211 Genève 4, Switzerland"
+    },
+    {
+      "name": "University of Basel",
+      "address": "Petersplatz 1, 4001 Basel, Switzerland"
+    }
+  ],
+  "Syria": [
+    {
+      "name": "University of Damascus",
+      "address": "Baramkeh, Damascus, Syria"
+    },
+    {
+      "name": "University of Aleppo",
+      "address": "Aleppo University Street, Aleppo, Syria"
+    },
+    {
+      "name": "Tishreen University",
+      "address": "Latakia, Syria"
+    },
+    {
+      "name": "Al-Baath University",
+      "address": "Homs, Syria"
+    },
+    {
+      "name": "Damascus University School of Medicine",
+      "address": "Al-Mezzeh Highway, Damascus, Syria"
+    }
+  ],
+  "Taiwan": [
+    {
+      "name": "National Taiwan University",
+      "address": "No. 1, Section 4, Roosevelt Rd, Da’an District, Taipei City, Taiwan 10617"
+    },
+    {
+      "name": "National Cheng Kung University",
+      "address": "No. 1, University Road, East District, Tainan City, Taiwan 701"
+    },
+    {
+      "name": "National Chiao Tung University",
+      "address": "1001 University Road, Hsinchu City, Taiwan 300"
+    },
+    {
+      "name": "National Tsing Hua University",
+      "address": "No. 101, Section 2, Kuang-Fu Road, Hsinchu City, Taiwan 30013"
+    },
+    {
+      "name": "National Taiwan Normal University",
+      "address": "No. 162, Section 1, Heping E. Rd, Da’an District, Taipei City, Taiwan 10610"
+    }
+  ],
+  "Tajikistan": [
+    {
+      "name": "Tajik National University",
+      "address": "Rudaki Avenue 17, Dushanbe, Tajikistan"
+    },
+    {
+      "name": "Technological University of Tajikistan",
+      "address": "Nisor Muhammad St 10, Dushanbe, Tajikistan"
+    },
+    {
+      "name": "Khujand State University",
+      "address": "Lenin Street, Khujand, Tajikistan"
+    },
+    {
+      "name": "Kabardino-Balkarian University Tajik campus",
+      "address": "Unknown"
+    },
+    {
+      "name": "Agricultural University of Tajikistan",
+      "address": "Rudaki Avenue, Dushanbe, Tajikistan"
+    }
+  ],
+  "Tanzania": [
+    {
+      "name": "University of Dar es Salaam",
+      "address": "Mwalimu Julius Nyerere Mlimani Campus, Dar es Salaam, Tanzania"
+    },
+    {
+      "name": "Sokoine University of Agriculture",
+      "address": "Old Morogoro Road, Morogoro, Tanzania"
+    },
+    {
+      "name": "Ardhi University",
+      "address": "University Road, Dar es Salaam, Tanzania"
+    },
+    {
+      "name": "Muhimbili University of Health and Allied Sciences",
+      "address": "United Nations Road, Upanga West, Dar es Salaam, Tanzania"
+    },
+    {
+      "name": "State University of Zanzibar",
+      "address": "Tunguu, Zanzibar, Tanzania"
+    }
+  ],
+  "Thailand": [
+    {
+      "name": "Chulalongkorn University",
+      "address": "254 Phayathai Rd, Wang Mai, Pathum Wan, Bangkok 10330, Thailand"
+    },
+    {
+      "name": "Mahidol University",
+      "address": "999 Phutthamonthon Sai 4 Rd, Salaya, Phutthamonthon District, Nakhon Pathom 73170, Thailand"
+    },
+    {
+      "name": "Kasetsart University",
+      "address": "50 Ngam Wong Wan Rd, Lat Yao, Chatuchak, Bangkok 10900, Thailand"
+    },
+    {
+      "name": "Chiang Mai University",
+      "address": "239 Huay Kaew Rd, Suthep, Mueang Chiang Mai District, Chiang Mai 50200, Thailand"
+    },
+    {
+      "name": "Thammasat University",
+      "address": "2 Phra Chan Rd, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200, Thailand"
+    }
+  ],
+  "Tunisia": [
+    {
+      "name": "University of Tunis",
+      "address": "94 Boulevard du 9 Avril 1938, Tunis 1007, Tunisia"
+    },
+    {
+      "name": "University of Carthage",
+      "address": "Rue de la République, Carthage, Tunisia"
+    },
+    {
+      "name": "University of Sfax",
+      "address": "Route de l'Aéroport Km 0.5, Sfax 3029, Tunisia"
+    },
+    {
+      "name": "University of Manouba",
+      "address": "Campus Universitaire de la Manouba, Manouba 2010, Tunisia"
+    },
+    {
+      "name": "University of Monastir",
+      "address": "Avenue de la République, Monastir 5000, Tunisia"
+    }
+  ],
+  "Turkey": [
+    {
+      "name": "Middle East Technical University",
+      "address": "Üniversiteler, Dumlupınar Blv. No:1, 06800 Çankaya/Ankara, Turkey"
+    },
+    {
+      "name": "Boğaziçi University",
+      "address": "Rumeli Hisarı, 34342 Sarıyer/İstanbul, Turkey"
+    },
+    {
+      "name": "Istanbul University",
+      "address": "Beyazıt, 34452 Fatih/İstanbul, Turkey"
+    },
+    {
+      "name": "Koç University",
+      "address": "Rumelifeneri Yolu, 34450 Sarıyer/İstanbul, Turkey"
+    },
+    {
+      "name": "Sabancı University",
+      "address": "Orta, Tuzla, 34956 İstanbul, Turkey"
+    }
+  ],
+  "Uganda": [
+    {
+      "name": "Makerere University",
+      "address": "Makerere Hill Road, Kampala, Uganda"
+    },
+    {
+      "name": "Uganda Christian University",
+      "address": "Bishop Tucker Road, Mukono, Uganda"
+    },
+    {
+      "name": "Mbarara University of Science & Technology",
+      "address": "Kihumuro, Mbarara, Uganda"
+    },
+    {
+      "name": "Kyambogo University",
+      "address": "Kyambogo, Kampala, Uganda"
+    },
+    {
+      "name": "Gulu University",
+      "address": "Laroo, Gulu, Uganda"
+    }
+  ],
+  "Ukraine": [
+    {
+      "name": "Taras Shevchenko National University of Kyiv",
+      "address": "Volodymyrska St, 60, Kyiv, Ukraine, 01033"
+    },
+    {
+      "name": "National Technical University of Ukraine",
+      "address": "Peremohy Ave, 37, Kyiv, Ukraine, 03056"
+    },
+    {
+      "name": "Lviv Polytechnic National University",
+      "address": "Stepana Bandery St, 12, L'viv, Lviv Oblast, Ukraine, 79000"
+    },
+    {
+      "name": "Odessa National University",
+      "address": "Dvoryans'ka St, 2, Odesa, Odes'ka oblast, Ukraine, 65000"
+    },
+    {
+      "name": "Kharkiv National University",
+      "address": "Svobody Square, 4, Kharkiv, Kharkiv Oblast, Ukraine, 61022"
+    }
+  ],
+  "United Arab Emirates": [
+    {
+      "name": "United Arab Emirates University",
+      "address": "Sheikh Khalifa Bin Zayed St, Al Ain, Abu Dhabi, UAE"
+    },
+    {
+      "name": "Khalifa University",
+      "address": "Al Saada Street, Abu Dhabi, UAE"
+    },
+    {
+      "name": "American University of Sharjah",
+      "address": "University City, Sharjah, UAE"
+    },
+    {
+      "name": "Zayed University",
+      "address": "Academic City, Dubai, UAE"
+    },
+    {
+      "name": "University of Sharjah",
+      "address": "University City, Sharjah, UAE"
+    }
+  ],
+  "United Kingdom": [
+    {
+      "name": "University of Oxford",
+      "address": "Wellington Square, Oxford OX1 2JD, United Kingdom"
+    },
+    {
+      "name": "University of Cambridge",
+      "address": "The Old Schools, Trinity Ln, Cambridge CB2 1TN, United Kingdom"
+    },
+    {
+      "name": "Imperial College London",
+      "address": "Exhibition Road, London SW7 2AZ, United Kingdom"
+    },
+    {
+      "name": "University College London",
+      "address": "Gower St, London WC1E 6BT, United Kingdom"
+    },
+    {
+      "name": "London School of Economics",
+      "address": "Houghton St, London WC2A 2AE, United Kingdom"
+    }
+  ],
+  "United States": [
+    {
+      "name": "Harvard University",
+      "address": "Massachusetts Hall, Cambridge, MA 02138, USA"
+    },
+    {
+      "name": "Stanford University",
+      "address": "450 Jane Stanford Way, Stanford, CA 94305, USA"
+    },
+    {
+      "name": "Massachusetts Institute of Technology",
+      "address": "77 Massachusetts Ave, Cambridge, MA 02139, USA"
+    },
+    {
+      "name": "Yale University",
+      "address": "Woodbridge Hall, New Haven, CT 06520, USA"
+    },
+    {
+      "name": "Princeton University",
+      "address": "Nassau Hall, Princeton, NJ 08544, USA"
+    }
+  ],
+  "Uruguay": [
+    {
+      "name": "University of the Republic",
+      "address": "Av. 18 de Julio 1824, 11200 Montevideo, Uruguay"
+    },
+    {
+      "name": "ORT Uruguay University",
+      "address": "Cuareim 1451, 11200 Montevideo, Uruguay"
+    },
+    {
+      "name": "Catholic University of Uruguay",
+      "address": "Av. 8 de Octubre 2738, 11600 Montevideo, Uruguay"
+    },
+    {
+      "name": "University of Montevideo",
+      "address": "Prudencio de Pena 2544, 11600 Montevideo, Uruguay"
+    },
+    {
+      "name": "University of Sacred Heart",
+      "address": "Unknown"
+    }
+  ],
+  "Uzbekistan": [
+    {
+      "name": "Tashkent State University of Oriental Studies",
+      "address": "Shahrisabz Street, 25, Tashkent, Uzbekistan"
+    },
+    {
+      "name": "National University of Uzbekistan",
+      "address": "University Street 4, Tashkent, Uzbekistan"
+    },
+    {
+      "name": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+      "address": "39 Kori Niyoziy Street, Tashkent, Uzbekistan"
+    },
+    {
+      "name": "Westminster International University in Tashkent",
+      "address": "12 Istiqbol Street, Tashkent, Uzbekistan"
+    },
+    {
+      "name": "Inha University Tashkent",
+      "address": "9 Ziyolilar Street, Tashkent, Uzbekistan"
+    }
+  ],
+  "Vatican City": [
+    {
+      "name": "Pontifical Gregorian University",
+      "address": "Piazza della Pilotta, 4, 00187 Roma RM, Italy"
+    },
+    {
+      "name": "Pontifical University of the Holy Cross",
+      "address": "Piazza di Sant'Apollinare, 49, 00186 Roma RM, Italy"
+    },
+    {
+      "name": "Pontifical Lateran University",
+      "address": "Piazza di S. Giovanni in Laterano, 4, 00184 Roma RM, Italy"
+    },
+    {
+      "name": "Pontifical University of St. Thomas Aquinas",
+      "address": "Largo Angelicum, 1, 00184 Roma RM, Italy"
+    },
+    {
+      "name": "Pontifical University of Saint Anthony",
+      "address": "Via Merulana, 124, 00185 Roma RM, Italy"
+    }
+  ],
+  "Venezuela": [
+    {
+      "name": "Central University of Venezuela",
+      "address": "Ciudad Universitaria de Caracas, Los Chaguaramos, Caracas, Venezuela"
+    },
+    {
+      "name": "Simón Bolívar University",
+      "address": "Valle de Sartenejas, Baruta, Caracas, Miranda, Venezuela"
+    },
+    {
+      "name": "University of the Andes",
+      "address": "Avenida 3 Independencia, Mérida, Venezuela"
+    },
+    {
+      "name": "University of Carabobo",
+      "address": "Av. Salvador Allende, Bárbula, Naguanagua, Carabobo, Venezuela"
+    },
+    {
+      "name": "Metropolitan University",
+      "address": "Autopista Petare-Guarenas, Distribuidor Metropolitano, Caracas, Miranda, Venezuela"
+    }
+  ],
+  "Vietnam": [
+    {
+      "name": "Vietnam National University Hanoi",
+      "address": "144 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội, Vietnam"
+    },
+    {
+      "name": "Vietnam National University Ho Chi Minh City",
+      "address": "Linh Trung, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam"
+    },
+    {
+      "name": "Hanoi University of Science and Technology",
+      "address": "1 Đại Cồ Việt, Bách Khoa, Hai Bà Trưng, Hà Nội, Vietnam"
+    },
+    {
+      "name": "Can Tho University",
+      "address": "Đường 3/2, Xuân Khánh, Ninh Kiều, Cần Thơ, Vietnam"
+    },
+    {
+      "name": "University of Danang",
+      "address": "41 Lê Duẩn, Hải Châu 1, Hải Châu, Đà Nẵng, Vietnam"
+    }
+  ],
+  "Yemen": [
+    {
+      "name": "Sana'a University",
+      "address": "Gamal Abdel Nasser St, Sana'a, Yemen"
+    },
+    {
+      "name": "Aden University",
+      "address": "Khor Maksar, Aden, Yemen"
+    },
+    {
+      "name": "Taiz University",
+      "address": "Habayl Salman, Taiz, Yemen"
+    },
+    {
+      "name": "Hadhramout University",
+      "address": "Al-Mukalla, Hadhramout, Yemen"
+    },
+    {
+      "name": "Hodeidah University",
+      "address": "Hodeidah, Yemen"
+    }
+  ],
+  "Zambia": [
+    {
+      "name": "University of Zambia",
+      "address": "Great East Road, Lusaka, Zambia"
+    },
+    {
+      "name": "Copperbelt University",
+      "address": "Jambo Drive, Riverside, Kitwe, Zambia"
+    },
+    {
+      "name": "Mulungushi University",
+      "address": "Great North Road, Kabwe, Zambia"
+    },
+    {
+      "name": "Zambia Catholic University",
+      "address": "Kalulushi, Copperbelt Province, Zambia"
+    },
+    {
+      "name": "ZCAS University",
+      "address": "Dedan Kimathi Road, Lusaka, Zambia"
+    }
+  ],
+  "Zimbabwe": [
+    {
+      "name": "University of Zimbabwe",
+      "address": "Mount Pleasant Drive, Harare, Zimbabwe"
+    },
+    {
+      "name": "University of Zimbabwe Harare campus",
+      "address": "Mount Pleasant Drive, Harare, Zimbabwe"
+    },
+    {
+      "name": "Chinhoyi University of Technology",
+      "address": "Harare-Chirundu Highway, Chinhoyi, Zimbabwe"
+    },
+    {
+      "name": "Midlands State University",
+      "address": "Senga Road, Gweru, Zimbabwe"
+    },
+    {
+      "name": "National University of Science and Technology Zimbabwe",
+      "address": "Gwanda Road, Ascot, Bulawayo, Zimbabwe"
+    }
+  ]
+}

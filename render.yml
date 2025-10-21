@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: sicg
+    env: node
+    region: oregon
+    plan: free
+    buildCommand: |
+      apt-get update && apt-get install -y \
+        libcairo2-dev \
+        libpango1.0-dev \
+        libjpeg-dev \
+        libgif-dev \
+        librsvg2-dev && \
+      npm install
+    startCommand: node server.js

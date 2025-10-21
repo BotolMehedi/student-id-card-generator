@@ -12,7 +12,11 @@
     "canvas": "^2.11.2",
     "axios": "^1.6.0"
   },
+  "engines": {
+  "node": "20.x"
+},
   "devDependencies": {
     "nodemon": "^3.0.1"
   }
 }
+

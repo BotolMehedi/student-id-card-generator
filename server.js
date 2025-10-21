@@ -7,6 +7,10 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+
+registerFont(path.join(__dirname, 'public/times.ttf'), { family: 'Times' });
+registerFont(path.join(__dirname, 'public/AlexBrush-Regular.ttf'), { family: 'AlexBrush' });
+
 // Middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -142,7 +146,7 @@ async function generateCard(params, set) {
     // Draw text based on tmplate
     if (set === 'set2') {
         ctx.fillStyle = '#FFFFFF';
-        ctx.font = 'bold 52px Arial';
+        ctx.font = 'bold 52px Times';
         ctx.shadowColor = 'rgba(0, 0, 0, 0.5)';
         ctx.shadowBlur = 4;
         ctx.shadowOffsetX = 2;
@@ -150,7 +154,7 @@ async function generateCard(params, set) {
         ctx.fillText((params.name || 'Mark Zuckerberg').toUpperCase(), 85, 750);
         
         ctx.fillStyle = '#FFFFFF';
-        ctx.font = 'bold 40px Arial';
+        ctx.font = 'bold 40px Times';
         ctx.shadowColor = 'rgba(0, 0, 0, 0.5)';
         ctx.shadowBlur = 4;
         ctx.shadowOffsetX = 2;
@@ -165,19 +169,19 @@ async function generateCard(params, set) {
         ctx.fillText(params.exp_date || '31 DEC 2025', 715, 620);
         
         ctx.fillStyle = '#FFFFFF';
-        ctx.font = 'bold 30px Arial';
+        ctx.font = 'bold 30px Times';
         ctx.fillText(params.issue_date || '15 AUG 2025', 1050, 80);
         
         ctx.fillStyle = '#FFFFFF';
-        ctx.font = 'bold 40px Arial';
+        ctx.font = 'bold 40px Times';
         ctx.fillText(params.issue_txt || 'Date Of Issue', 1005, 40);
     } else {
         ctx.fillStyle = '#F45245';
-        ctx.font = 'bold 52px Arial';
+        ctx.font = 'bold 52px Times';
         ctx.fillText((params.name || 'Mark Zuckerberg').toUpperCase(), 625, 402);
         
         ctx.fillStyle = '#000000';
-        ctx.font = 'bold 31px Arial';
+        ctx.font = 'bold 31px Times';
         ctx.fillText(formattedDate, 808, 512);
         
         const studentId = params.id_value || generateStudentId(params.id || '1');
@@ -185,24 +189,24 @@ async function generateCard(params, set) {
         ctx.fillText(address.substring(0, 30), 810, 557);
         
         ctx.fillStyle = '#F45245';
-        ctx.font = 'bold 45px Arial';
+        ctx.font = 'bold 45px Times';
         ctx.fillText(params.academicyear || '2025-2028', 665, 694);
         
         ctx.fillStyle = '#FFFFFF';
-        ctx.font = 'bold 30px Arial';
+        ctx.font = 'bold 30px Times';
         ctx.fillText(params.issue_date || '15 AUG 2025', 1050, 80);
         ctx.fillText(params.exp_date || '31 DEC 2025', 65, 785);
         
         ctx.fillStyle = '#FFFFFF';
-        ctx.font = 'bold 40px Arial';
+        ctx.font = 'bold 40px Times';
         ctx.fillText(params.issue_txt || 'Date Of Issue', 1005, 40);
-        ctx.font = 'bold 34px Arial';
+        ctx.font = 'bold 34px Times';
         ctx.fillText(params.exp_txt || 'Card Expires', 10, 745);
     }
 
     // clg name
     ctx.fillStyle = set === 'set2' ? '#FFFFFF' : '#000000';
-    ctx.font = 'bold 32px Arial';
+    ctx.font = 'bold 32px Times';
     ctx.shadowColor = 'rgba(0, 0, 0, 0.5)';
     ctx.shadowBlur = 4;
     ctx.shadowOffsetX = 2;
@@ -245,7 +249,7 @@ async function generateCard(params, set) {
 
     // Draw signature
     const signature = params.principal || 'Osama Aziz';
-    ctx.font = 'italic 38px Arial';
+    ctx.font = 'italic 38px AlexBrush';
     ctx.shadowColor = 'rgba(0, 0, 0, 0.5)';
     ctx.shadowBlur = 4;
     ctx.shadowOffsetX = 2;

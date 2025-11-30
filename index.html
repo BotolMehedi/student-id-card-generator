@@ -806,7 +806,7 @@
 
                 <div class="form-group">
                     <label for="dob">Date of Birth</label>
-                    <input type="date" id="dob" value="2001-01-25">
+                    <input type="text" id="dob" value="2001-01-25">
                 </div>
 
                 <div class="form-group">
@@ -880,8 +880,14 @@
                     <label for="college">College</label>
                     <select id="college">
                         <option value="">Select College</option>
+                        <option value="custom">Custom College Name</option>
                     </select>
                 </div>
+                
+                <div class="form-group hidden" id="customCollegeGroup">
+    <label for="customCollegeInput">Enter Custom College Name</label>
+    <input type="text" id="customCollegeInput" placeholder="Write your college name">
+</div>
 
                 <div class="form-group hidden" id="signatureGroup">
                     <label for="principalSignature">Principal Signature</label>
@@ -1168,6 +1174,7 @@
             }
         });
 
+/*
         const dobInput = document.getElementById('dob');
         const date = new Date(dobInput.value);
         const formattedDate = date.toLocaleDateString('en-US', {
@@ -1175,6 +1182,7 @@
             month: 'long',
             day: 'numeric'
         });
+*/
         
         let colleges = {};
         let uploadedImage = null;
@@ -1302,7 +1310,7 @@
                 collegeGroup.classList.remove('hidden');
                 signatureGroup.classList.remove('hidden');
 
-                collegeSelect.innerHTML = '<option value="">Select College</option>';
+                collegeSelect.innerHTML = '<option value="">Select College</option><option value="custom">Custom College Name</option>';
 
                 colleges[country].forEach(collegeObj => {
                     const option = document.createElement('option');
@@ -1314,9 +1322,21 @@
             } else {
                 collegeGroup.classList.add('hidden');
                 signatureGroup.classList.add('hidden');
-                collegeSelect.innerHTML = '<option value="">Select College</option>';
+                collegeSelect.innerHTML = '<option value="">Select College</option><option value="custom">Custom College Name</option>';
             }
         });
+
+document.getElementById("college").addEventListener("change", function () {
+    const customGroup = document.getElementById("customCollegeGroup");
+
+    if (this.value === "custom") {
+        customGroup.classList.remove("hidden");
+    } else {
+        customGroup.classList.add("hidden");
+    }
+});
+
+
 
         document.getElementById('college').addEventListener('change', function() {
             const selectedOption = this.options[this.selectedIndex];
@@ -1434,7 +1454,7 @@ ctx.shadowBlur = 4;
 ctx.shadowOffsetX = 2;
 ctx.shadowOffsetY = 2;
 
-                            ctx.fillText(formattedDate, 715, 428);
+                            ctx.fillText(document.getElementById('dob').value || 'January 25, 2001', 715, 428);
                             ctx.fillText(document.getElementById('studentId').value || '250-456-2000', 715, 359);
                             
                             const address = document.getElementById('address').value || '628, Kanaikhali, Natore';
@@ -1468,7 +1488,7 @@ ctx.shadowOffsetY = 2;
                             
                             ctx.fillStyle = '#000000';
                             ctx.font = 'bold 31px Arial';
-                            ctx.fillText(formattedDate, 808, 512);
+                            ctx.fillText(document.getElementById('dob').value || 'January 25, 2001', 808, 512);
                             ctx.fillText(document.getElementById('studentId').value || '250-456-2000', 810, 462);
                             
                             const address = document.getElementById('address').value || '628, Kanaikhali, Natore';
@@ -1498,7 +1518,14 @@ ctx.shadowBlur = 4;
 ctx.shadowOffsetX = 2;
 ctx.shadowOffsetY = 2;
                         
-                        const college = (document.getElementById('college').value || 'Westminster International University in Tashkent').toUpperCase();
+                        let collegeValue = document.getElementById('college').value;
+
+if (collegeValue === "custom") {
+    collegeValue = document.getElementById("customCollegeInput").value || "Custom College";
+}
+
+const college = collegeValue.toUpperCase();
+
                         const words = college.split(' ');
                         let line1 = '';
                         let line2 = '';

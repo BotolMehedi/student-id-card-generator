@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![ID Card Generator](https://img.shields.io/badge/Status-Live-brightgreen)](https://mehedi.fun/) [![Version](https://img.shields.io/badge/Version-2.0.0-green)](https://mehedi.fun/) [![License](https://img.shields.io/badge/License-MIT-yellow)](https://mehedi.fun/) [![Live Demo](https://img.shields.io/badge/Live%20Demo-https://ahct.pages.dev/-blue)](https://ahct.pages.dev/) 
+[![ID Card Generator](https://img.shields.io/badge/Status-Live-brightgreen)](https://mehedi.fun/) [![Version](https://img.shields.io/badge/Version-2.0.1-green)](https://mehedi.fun/) [![License](https://img.shields.io/badge/License-MIT-yellow)](https://mehedi.fun/) [![Live Demo](https://img.shields.io/badge/Live%20Demo-https://ahct.pages.dev/-blue)](https://ahct.pages.dev/) 
 
 *A professional, feature-rich ID card generator for educational institutions with a modern, responsive design and advanced customization options.*
 
@@ -42,6 +42,7 @@ Experience the full functionality of the ID Card Generator with all features ava
 - **Responsive Design**
 - **2 Layout | 6+ Templates**
 - **2 Hand Holding Templates**
+- **Extra Docs Added : Account Statement, Academic Transcript,Course Schedule, Letter of Admission, Certificate of Enrolment**
 - **130+ Country Supported**
 
 
